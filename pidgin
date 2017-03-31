@@ -1,0 +1,7230 @@
+COMPLETE 0
+CASE 1
+BAD ;;
+GOOD ::
+
+COMPLETE 0
+CASE 1
+BAD ;:
+GOOD ::
+
+COMPLETE 0
+CASE 1
+BAD :;
+GOOD ::
+
+COMPLETE 1
+CASE 0
+BAD <4
+GOOD <3
+
+COMPLETE 1
+CASE 0
+BAD abbout
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abck
+GOOD back
+
+COMPLETE 1
+CASE 0
+BAD abot
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abotu
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abou
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abount
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abouta
+GOOD about a
+
+COMPLETE 1
+CASE 0
+BAD aboutit
+GOOD about it
+
+COMPLETE 1
+CASE 0
+BAD aboutthe
+GOOD about the
+
+COMPLETE 1
+CASE 0
+BAD abscence
+GOOD absence
+
+COMPLETE 1
+CASE 0
+BAD absense
+GOOD absence
+
+COMPLETE 1
+CASE 0
+BAD abuot
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD abut
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD accesories
+GOOD accessories
+
+COMPLETE 1
+CASE 0
+BAD accidant
+GOOD accident
+
+COMPLETE 1
+CASE 0
+BAD accomodate
+GOOD accommodate
+
+COMPLETE 1
+CASE 0
+BAD accordingto
+GOOD according to
+
+COMPLETE 1
+CASE 0
+BAD accross
+GOOD across
+
+COMPLETE 1
+CASE 0
+BAD acheive
+GOOD achieve
+
+COMPLETE 1
+CASE 0
+BAD acheived
+GOOD achieved
+
+COMPLETE 1
+CASE 0
+BAD acheiving
+GOOD achieving
+
+COMPLETE 1
+CASE 0
+BAD acn
+GOOD can
+
+COMPLETE 1
+CASE 0
+BAD acommodate
+GOOD accommodate
+
+COMPLETE 1
+CASE 0
+BAD acomodate
+GOOD accommodate
+
+COMPLETE 1
+CASE 0
+BAD actualyl
+GOOD actually
+
+COMPLETE 1
+CASE 0
+BAD acutally
+GOOD actually
+
+COMPLETE 1
+CASE 0
+BAD additinal
+GOOD additional
+
+COMPLETE 1
+CASE 0
+BAD addtional
+GOOD additional
+
+COMPLETE 1
+CASE 0
+BAD adequit
+GOOD adequate
+
+COMPLETE 1
+CASE 0
+BAD adequite
+GOOD adequate
+
+COMPLETE 1
+CASE 0
+BAD adn
+GOOD and
+
+COMPLETE 1
+CASE 0
+BAD advanage
+GOOD advantage
+
+COMPLETE 1
+CASE 0
+BAD affraid
+GOOD afraid
+
+COMPLETE 1
+CASE 0
+BAD afterthe
+GOOD after the
+
+COMPLETE 0
+CASE 1
+BAD againstt he 
+GOOD against the 
+
+COMPLETE 1
+CASE 0
+BAD aganist
+GOOD against
+
+COMPLETE 1
+CASE 0
+BAD aggresive
+GOOD aggressive
+
+COMPLETE 1
+CASE 0
+BAD agian
+GOOD again
+
+COMPLETE 1
+CASE 0
+BAD agreemeent
+GOOD agreement
+
+COMPLETE 1
+CASE 0
+BAD agreemeents
+GOOD agreements
+
+COMPLETE 1
+CASE 0
+BAD agreemnet
+GOOD agreement
+
+COMPLETE 1
+CASE 0
+BAD agreemnets
+GOOD agreements
+
+COMPLETE 1
+CASE 0
+BAD agressive
+GOOD aggressive
+
+COMPLETE 1
+CASE 0
+BAD agressiveness
+GOOD aggressiveness
+
+COMPLETE 1
+CASE 0
+BAD ahd
+GOOD had
+
+COMPLETE 1
+CASE 0
+BAD ahev
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD ahold
+GOOD a hold
+
+COMPLETE 1
+CASE 0
+BAD ahppen
+GOOD happen
+
+COMPLETE 1
+CASE 0
+BAD ahve
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD airprot
+GOOD airport
+
+COMPLETE 1
+CASE 0
+BAD aks
+GOOD ask
+
+COMPLETE 1
+CASE 0
+BAD alerady
+GOOD already
+
+COMPLETE 1
+CASE 0
+BAD allready
+GOOD already
+
+COMPLETE 1
+CASE 0
+BAD allwasy
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD allwyas
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD almos
+GOOD almost
+
+COMPLETE 1
+CASE 0
+BAD almots
+GOOD almost
+
+COMPLETE 1
+CASE 0
+BAD almsot
+GOOD almost
+
+COMPLETE 1
+CASE 0
+BAD alomst
+GOOD almost
+
+COMPLETE 1
+CASE 0
+BAD alot
+GOOD a lot
+
+COMPLETE 1
+CASE 0
+BAD alound
+GOOD around
+
+COMPLETE 1
+CASE 0
+BAD alraedy
+GOOD already
+
+COMPLETE 1
+CASE 0
+BAD alreayd
+GOOD already
+
+COMPLETE 1
+CASE 0
+BAD alreday
+GOOD already
+
+COMPLETE 1
+CASE 0
+BAD alwasy
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD alwats
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD alway
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD alwyas
+GOOD always
+
+COMPLETE 1
+CASE 0
+BAD amde
+GOOD made
+
+COMPLETE 1
+CASE 0
+BAD Ameria
+GOOD America
+
+COMPLETE 1
+CASE 0
+BAD amke
+GOOD make
+
+COMPLETE 1
+CASE 0
+BAD amkes
+GOOD makes
+
+COMPLETE 0
+CASE 1
+BAD amounth
+GOOD amount
+
+COMPLETE 1
+CASE 0
+BAD amout
+GOOD amount
+
+COMPLETE 1
+CASE 0
+BAD amouth
+GOOD amount
+
+COMPLETE 1
+CASE 0
+BAD amoutn
+GOOD amount
+
+COMPLETE 1
+CASE 0
+BAD anbd
+GOOD and
+
+COMPLETE 1
+CASE 1
+BAD ANd
+GOOD And
+
+COMPLETE 1
+CASE 0
+BAD andone
+GOOD and one
+
+COMPLETE 1
+CASE 0
+BAD andteh
+GOOD and the
+
+COMPLETE 1
+CASE 0
+BAD andthe
+GOOD and the
+
+COMPLETE 0
+CASE 1
+BAD andt he 
+GOOD and the 
+
+COMPLETE 1
+CASE 1
+BAD ann
+GOOD Ann
+
+COMPLETE 1
+CASE 0
+BAD anotehr
+GOOD another
+
+COMPLETE 1
+CASE 0
+BAD anothe
+GOOD another
+
+COMPLETE 1
+CASE 0
+BAD anual
+GOOD annual
+
+COMPLETE 1
+CASE 0
+BAD any1
+GOOD anyone
+
+COMPLETE 1
+CASE 0
+BAD anyhting
+GOOD anything
+
+COMPLETE 1
+CASE 0
+BAD aout
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD apparant
+GOOD apparent
+
+COMPLETE 1
+CASE 0
+BAD Apparentyl
+GOOD apparently
+
+COMPLETE 1
+CASE 0
+BAD apparetnly
+GOOD apparently
+
+COMPLETE 1
+CASE 0
+BAD apparrent
+GOOD apparent
+
+COMPLETE 1
+CASE 0
+BAD appearence
+GOOD appearance
+
+COMPLETE 1
+CASE 0
+BAD appeares
+GOOD appears
+
+COMPLETE 1
+CASE 0
+BAD applicaiton
+GOOD application
+
+COMPLETE 1
+CASE 0
+BAD applicaitons
+GOOD applications
+
+COMPLETE 1
+CASE 0
+BAD applyed
+GOOD applied
+
+COMPLETE 1
+CASE 0
+BAD appointiment
+GOOD appointment
+
+COMPLETE 1
+CASE 0
+BAD approrpiate
+GOOD appropriate
+
+COMPLETE 1
+CASE 0
+BAD approrpriate
+GOOD appropriate
+
+COMPLETE 1
+CASE 0
+BAD aquisition
+GOOD acquisition
+
+COMPLETE 1
+CASE 0
+BAD aquisitions
+GOOD acquisitions
+
+COMPLETE 1
+CASE 0
+BAD arent
+GOOD aren't
+
+COMPLETE 1
+CASE 0
+BAD are'nt
+GOOD aren't
+
+COMPLETE 0
+CASE 1
+BAD aren;t 
+GOOD aren't 
+
+COMPLETE 1
+CASE 0
+BAD arguement
+GOOD argument
+
+COMPLETE 1
+CASE 0
+BAD arguements
+GOOD arguments
+
+COMPLETE 0
+CASE 1
+BAD arn't 
+GOOD aren't 
+
+COMPLETE 1
+CASE 0
+BAD arond
+GOOD around
+
+COMPLETE 1
+CASE 0
+BAD aronud
+GOOD around
+
+COMPLETE 1
+CASE 0
+BAD aroud
+GOOD around
+
+COMPLETE 1
+CASE 0
+BAD artical
+GOOD article
+
+COMPLETE 1
+CASE 0
+BAD articel
+GOOD article
+
+COMPLETE 1
+CASE 0
+BAD asdvertising
+GOOD advertising
+
+COMPLETE 1
+CASE 0
+BAD askde
+GOOD asked
+
+COMPLETE 0
+CASE 1
+BAD askt he 
+GOOD ask the 
+
+COMPLETE 1
+CASE 0
+BAD assistent
+GOOD assistant
+
+COMPLETE 1
+CASE 0
+BAD asthe
+GOOD as the
+
+COMPLETE 1
+CASE 0
+BAD atention
+GOOD attention
+
+COMPLETE 1
+CASE 0
+BAD atht
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD atke
+GOOD take
+
+COMPLETE 1
+CASE 0
+BAD atmospher
+GOOD atmosphere
+
+COMPLETE 1
+CASE 0
+BAD attentioin
+GOOD attention
+
+COMPLETE 1
+CASE 0
+BAD atthe
+GOOD at the
+
+COMPLETE 1
+CASE 0
+BAD audeince
+GOOD audience
+
+COMPLETE 1
+CASE 0
+BAD audiance
+GOOD audience
+
+COMPLETE 1
+CASE 0
+BAD authentification
+GOOD authentication
+
+COMPLETE 1
+CASE 0
+BAD availalbe
+GOOD available
+
+COMPLETE 1
+CASE 0
+BAD aweosme
+GOOD awesome
+
+COMPLETE 1
+CASE 0
+BAD awesmoe
+GOOD awesome
+
+COMPLETE 1
+CASE 0
+BAD awnt
+GOOD want
+
+COMPLETE 1
+CASE 0
+BAD aws
+GOOD was
+
+COMPLETE 1
+CASE 0
+BAD awseome
+GOOD awesome
+
+COMPLETE 1
+CASE 0
+BAD awya
+GOOD away
+
+COMPLETE 1
+CASE 0
+BAD aywa
+GOOD away
+
+COMPLETE 1
+CASE 0
+BAD b4
+GOOD before
+
+COMPLETE 1
+CASE 0
+BAD bakc
+GOOD back
+
+COMPLETE 1
+CASE 0
+BAD balence
+GOOD balance
+
+COMPLETE 1
+CASE 0
+BAD ballance
+GOOD balance
+
+COMPLETE 1
+CASE 0
+BAD baout
+GOOD about
+
+COMPLETE 1
+CASE 0
+BAD basicalyl
+GOOD basically
+
+COMPLETE 1
+CASE 1
+BAD battle creek
+GOOD Battle Creek
+
+COMPLETE 1
+CASE 1
+BAD battle creek.
+GOOD Battle Creek.
+
+COMPLETE 1
+CASE 1
+BAD bb
+GOOD [Mr. Smith]
+
+COMPLETE 1
+CASE 0
+BAD bcak
+GOOD back
+
+COMPLETE 1
+CASE 0
+BAD bcuz
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD beacues
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD beacuse
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becaeus
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becasue
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becaues
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becaus
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becausea
+GOOD because a
+
+COMPLETE 1
+CASE 0
+BAD becauseof
+GOOD because of
+
+COMPLETE 1
+CASE 0
+BAD becausethe
+GOOD because the
+
+COMPLETE 1
+CASE 0
+BAD becauseyou
+GOOD because you
+
+COMPLETE 1
+CASE 0
+BAD becomeing
+GOOD becoming
+
+COMPLETE 1
+CASE 0
+BAD becomming
+GOOD becoming
+
+COMPLETE 1
+CASE 0
+BAD becuase
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD becuse
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD befoer
+GOOD before
+
+COMPLETE 1
+CASE 0
+BAD beggining
+GOOD beginning
+
+COMPLETE 1
+CASE 0
+BAD begining
+GOOD beginning
+
+COMPLETE 1
+CASE 0
+BAD beginining
+GOOD beginning
+
+COMPLETE 1
+CASE 0
+BAD beginnig
+GOOD beginning
+
+COMPLETE 1
+CASE 0
+BAD beign
+GOOD being
+
+COMPLETE 1
+CASE 0
+BAD bein
+GOOD being
+
+COMPLETE 1
+CASE 0
+BAD beleiev
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD beleieve
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD beleif
+GOOD belief
+
+COMPLETE 1
+CASE 0
+BAD beleive
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD beleived
+GOOD believed
+
+COMPLETE 1
+CASE 0
+BAD beleives
+GOOD believes
+
+COMPLETE 1
+CASE 0
+BAD belieev
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD believ
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD belive
+GOOD believe
+
+COMPLETE 1
+CASE 0
+BAD belived
+GOOD believed
+
+COMPLETE 1
+CASE 0
+BAD belives
+GOOD believes
+
+COMPLETE 1
+CASE 0
+BAD bene
+GOOD been
+
+COMPLETE 1
+CASE 0
+BAD benifit
+GOOD benefit
+
+COMPLETE 1
+CASE 0
+BAD benifits
+GOOD benefits
+
+COMPLETE 1
+CASE 0
+BAD berad
+GOOD bread
+
+COMPLETE 0
+CASE 1
+BAD berak
+GOOD break
+
+COMPLETE 1
+CASE 0
+BAD betwen
+GOOD between
+
+COMPLETE 1
+CASE 0
+BAD beutiful
+GOOD beautiful
+
+COMPLETE 1
+CASE 1
+BAD bj1
+GOOD /dice 1 13
+
+COMPLETE 1
+CASE 1
+BAD bj2
+GOOD /dice 2 13 
+
+COMPLETE 1
+CASE 0
+BAD blase
+GOOD blasé
+
+COMPLETE 1
+CASE 0
+BAD bor
+GOOD bro
+
+COMPLETE 1
+CASE 0
+BAD boxs
+GOOD boxes
+
+COMPLETE 1
+CASE 0
+BAD brign
+GOOD bring
+
+COMPLETE 1
+CASE 0
+BAD brodcast
+GOOD broadcast
+
+COMPLETE 1
+CASE 0
+BAD butthe
+GOOD but the
+
+COMPLETE 1
+CASE 0
+BAD bve
+GOOD be
+
+COMPLETE 0
+CASE 1
+BAD byt he 
+GOOD by the 
+
+COMPLETE 1
+CASE 0
+BAD cafe
+GOOD café
+
+COMPLETE 1
+CASE 0
+BAD caffiene
+GOOD caffeine
+
+COMPLETE 1
+CASE 0
+BAD caharcter
+GOOD character
+
+COMPLETE 1
+CASE 0
+BAD calcullated
+GOOD calculated
+
+COMPLETE 1
+CASE 0
+BAD calulated
+GOOD calculated
+
+COMPLETE 1
+CASE 0
+BAD candidtae
+GOOD candidate
+
+COMPLETE 1
+CASE 0
+BAD candidtaes
+GOOD candidates
+
+COMPLETE 1
+CASE 0
+BAD cant
+GOOD can't
+
+COMPLETE 0
+CASE 1
+BAD can;t 
+GOOD can't 
+
+COMPLETE 1
+CASE 0
+BAD cant'
+GOOD can't
+
+COMPLETE 0
+CASE 1
+BAD can't of been
+GOOD can't have been
+
+COMPLETE 0
+CASE 1
+BAD case and point
+GOOD case in point
+
+COMPLETE 1
+CASE 0
+BAD catagory
+GOOD category
+
+COMPLETE 1
+CASE 0
+BAD categiory
+GOOD category
+
+COMPLETE 1
+CASE 0
+BAD cc
+GOOD [MJ]
+
+COMPLETE 1
+CASE 0
+BAD certainyl
+GOOD certainly
+
+COMPLETE 1
+CASE 0
+BAD certian
+GOOD certain
+
+COMPLETE 1
+CASE 0
+BAD challange
+GOOD challenge
+
+COMPLETE 1
+CASE 0
+BAD challanges
+GOOD challenges
+
+COMPLETE 1
+CASE 0
+BAD chaneg
+GOOD change
+
+COMPLETE 1
+CASE 0
+BAD chanegs
+GOOD changes
+
+COMPLETE 1
+CASE 0
+BAD changable
+GOOD changeable
+
+COMPLETE 1
+CASE 0
+BAD changeing
+GOOD changing
+
+COMPLETE 1
+CASE 0
+BAD changng
+GOOD changing
+
+COMPLETE 1
+CASE 0
+BAD charachter
+GOOD character
+
+COMPLETE 1
+CASE 0
+BAD charachters
+GOOD characters
+
+COMPLETE 1
+CASE 0
+BAD charactor
+GOOD character
+
+COMPLETE 1
+CASE 0
+BAD charecter
+GOOD character
+
+COMPLETE 1
+CASE 0
+BAD charector
+GOOD character
+
+COMPLETE 1
+CASE 0
+BAD cheif
+GOOD chief
+
+COMPLETE 1
+CASE 0
+BAD chekc
+GOOD check
+
+COMPLETE 1
+CASE 0
+BAD chnage
+GOOD change
+
+COMPLETE 1
+CASE 0
+BAD cieling
+GOOD ceiling
+
+COMPLETE 1
+CASE 0
+BAD cilck
+GOOD click
+
+COMPLETE 1
+CASE 0
+BAD cilkc
+GOOD click
+
+COMPLETE 1
+CASE 0
+BAD circut
+GOOD circuit
+
+COMPLETE 1
+CASE 0
+BAD claer
+GOOD clear
+
+COMPLETE 1
+CASE 0
+BAD claered
+GOOD cleared
+
+COMPLETE 1
+CASE 0
+BAD claerly
+GOOD clearly
+
+COMPLETE 1
+CASE 0
+BAD cliant
+GOOD client
+
+COMPLETE 1
+CASE 0
+BAD cliche
+GOOD cliché
+
+COMPLETE 1
+CASE 1
+BAD cn
+GOOD ):
+
+COMPLETE 1
+CASE 0
+BAD cna
+GOOD can
+
+COMPLETE 1
+CASE 0
+BAD colection
+GOOD collection
+
+COMPLETE 1
+CASE 0
+BAD colud
+GOOD could
+
+COMPLETE 1
+CASE 0
+BAD comanies
+GOOD companies
+
+COMPLETE 1
+CASE 0
+BAD comany
+GOOD company
+
+COMPLETE 1
+CASE 0
+BAD comapnies
+GOOD companies
+
+COMPLETE 1
+CASE 0
+BAD comapny
+GOOD company
+
+COMPLETE 1
+CASE 0
+BAD combintation
+GOOD combination
+
+COMPLETE 1
+CASE 0
+BAD comited
+GOOD committed
+
+COMPLETE 1
+CASE 0
+BAD comittee
+GOOD committee
+
+COMPLETE 1
+CASE 0
+BAD commadn
+GOOD command
+
+COMPLETE 1
+CASE 0
+BAD comming
+GOOD coming
+
+COMPLETE 1
+CASE 0
+BAD commitee
+GOOD committee
+
+COMPLETE 1
+CASE 0
+BAD committe
+GOOD committee
+
+COMPLETE 1
+CASE 0
+BAD committment
+GOOD commitment
+
+COMPLETE 1
+CASE 0
+BAD committments
+GOOD commitments
+
+COMPLETE 1
+CASE 0
+BAD committy
+GOOD committee
+
+COMPLETE 1
+CASE 0
+BAD comntain
+GOOD contain
+
+COMPLETE 1
+CASE 0
+BAD comntains
+GOOD contains
+
+COMPLETE 1
+CASE 0
+BAD compair
+GOOD compare
+
+COMPLETE 0
+CASE 1
+BAD company;s 
+GOOD company's 
+
+COMPLETE 1
+CASE 0
+BAD competetive
+GOOD competitive
+
+COMPLETE 1
+CASE 0
+BAD compleated
+GOOD completed
+
+COMPLETE 1
+CASE 0
+BAD compleatly
+GOOD completely
+
+COMPLETE 1
+CASE 0
+BAD compleatness
+GOOD completeness
+
+COMPLETE 1
+CASE 0
+BAD completly
+GOOD completely
+
+COMPLETE 1
+CASE 0
+BAD completness
+GOOD completeness
+
+COMPLETE 1
+CASE 0
+BAD composate
+GOOD composite
+
+COMPLETE 1
+CASE 0
+BAD comtain
+GOOD contain
+
+COMPLETE 1
+CASE 0
+BAD comtains
+GOOD contains
+
+COMPLETE 1
+CASE 0
+BAD comunicate
+GOOD communicate
+
+COMPLETE 1
+CASE 0
+BAD comunity
+GOOD community
+
+COMPLETE 1
+CASE 0
+BAD condolances
+GOOD condolences
+
+COMPLETE 1
+CASE 0
+BAD conected
+GOOD connected
+
+COMPLETE 1
+CASE 0
+BAD conferance
+GOOD conference
+
+COMPLETE 1
+CASE 0
+BAD confirmmation
+GOOD confirmation
+
+COMPLETE 1
+CASE 0
+BAD congradulations
+GOOD congratulations
+
+COMPLETE 1
+CASE 0
+BAD considerit
+GOOD considerate
+
+COMPLETE 1
+CASE 0
+BAD considerite
+GOOD considerate
+
+COMPLETE 1
+CASE 0
+BAD consonent
+GOOD consonant
+
+COMPLETE 1
+CASE 0
+BAD conspiricy
+GOOD conspiracy
+
+COMPLETE 1
+CASE 0
+BAD consultent
+GOOD consultant
+
+COMPLETE 1
+CASE 0
+BAD convertable
+GOOD convertible
+
+COMPLETE 1
+CASE 0
+BAD convienient
+GOOD convenient
+
+COMPLETE 1
+CASE 0
+BAD cooparate
+GOOD cooperate
+
+COMPLETE 1
+CASE 0
+BAD cooporate
+GOOD cooperate
+
+COMPLETE 1
+CASE 0
+BAD corproation
+GOOD corporation
+
+COMPLETE 1
+CASE 0
+BAD corproations
+GOOD corporations
+
+COMPLETE 1
+CASE 0
+BAD corruptable
+GOOD corruptible
+
+COMPLETE 1
+CASE 0
+BAD cotten
+GOOD cotton
+
+COMPLETE 1
+CASE 0
+BAD coud
+GOOD could
+
+COMPLETE 1
+CASE 0
+BAD coudl
+GOOD could
+
+COMPLETE 0
+CASE 1
+BAD coudln't 
+GOOD couldn't 
+
+COMPLETE 0
+CASE 1
+BAD coudn't 
+GOOD couldn't 
+
+COMPLETE 1
+CASE 0
+BAD couldnt
+GOOD couldn't
+
+COMPLETE 1
+CASE 0
+BAD could'nt
+GOOD couldn't
+
+COMPLETE 0
+CASE 1
+BAD couldn;t 
+GOOD couldn't 
+
+COMPLETE 0
+CASE 1
+BAD could of been
+GOOD could have been
+
+COMPLETE 0
+CASE 1
+BAD could of had
+GOOD could have had
+
+COMPLETE 1
+CASE 0
+BAD couldthe
+GOOD could the
+
+COMPLETE 1
+CASE 0
+BAD couldve
+GOOD could've
+
+COMPLETE 1
+CASE 0
+BAD coures
+GOOD course
+
+COMPLETE 1
+CASE 0
+BAD cpoy
+GOOD copy
+
+COMPLETE 1
+CASE 0
+BAD creme
+GOOD crème
+
+COMPLETE 1
+CASE 0
+BAD ctaegory
+GOOD category
+
+COMPLETE 1
+CASE 0
+BAD cu
+GOOD see you
+
+COMPLETE 1
+CASE 0
+BAD curretnly
+GOOD currently
+
+COMPLETE 1
+CASE 0
+BAD cusotmer
+GOOD customer
+
+COMPLETE 1
+CASE 0
+BAD cusotmers
+GOOD customers
+
+COMPLETE 1
+CASE 0
+BAD cutsomer
+GOOD customer
+
+COMPLETE 1
+CASE 0
+BAD cutsomers
+GOOD customer
+
+COMPLETE 1
+CASE 0
+BAD cuz
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD cxan
+GOOD can
+
+COMPLETE 1
+CASE 0
+BAD danceing
+GOOD dancing
+
+COMPLETE 1
+CASE 0
+BAD dcument
+GOOD document
+
+COMPLETE 1
+CASE 1
+BAD dd
+GOOD [Alex]
+
+COMPLETE 1
+CASE 0
+BAD Ddi
+GOOD Did
+
+COMPLETE 1
+CASE 0
+BAD deatils
+GOOD details
+
+COMPLETE 1
+CASE 0
+BAD decison
+GOOD decision
+
+COMPLETE 1
+CASE 0
+BAD decisons
+GOOD decisions
+
+COMPLETE 1
+CASE 0
+BAD decor
+GOOD décor
+
+COMPLETE 1
+CASE 0
+BAD defendent
+GOOD defendant
+
+COMPLETE 1
+CASE 0
+BAD defilitely
+GOOD definitely
+
+COMPLETE 1
+CASE 0
+BAD definately
+GOOD definitely
+
+COMPLETE 0
+CASE 1
+BAD deja vu
+GOOD déjà vu
+
+COMPLETE 1
+CASE 0
+BAD deptartment
+GOOD department
+
+COMPLETE 1
+CASE 0
+BAD desicion
+GOOD decision
+
+COMPLETE 1
+CASE 0
+BAD desicions
+GOOD decisions
+
+COMPLETE 1
+CASE 0
+BAD desision
+GOOD decision
+
+COMPLETE 1
+CASE 0
+BAD desisions
+GOOD decisions
+
+COMPLETE 1
+CASE 0
+BAD detente
+GOOD détente
+
+COMPLETE 0
+CASE 1
+BAD detroit
+GOOD Detroit
+
+COMPLETE 1
+CASE 0
+BAD develeoprs
+GOOD developers
+
+COMPLETE 1
+CASE 0
+BAD devellop
+GOOD develop
+
+COMPLETE 1
+CASE 0
+BAD develloped
+GOOD developed
+
+COMPLETE 1
+CASE 0
+BAD develloper
+GOOD developer
+
+COMPLETE 1
+CASE 0
+BAD devellopers
+GOOD developers
+
+COMPLETE 1
+CASE 0
+BAD develloping
+GOOD developing
+
+COMPLETE 1
+CASE 0
+BAD devellopment
+GOOD development
+
+COMPLETE 1
+CASE 0
+BAD devellopments
+GOOD developments
+
+COMPLETE 1
+CASE 0
+BAD devellops
+GOOD develop
+
+COMPLETE 1
+CASE 0
+BAD develope
+GOOD develop
+
+COMPLETE 1
+CASE 0
+BAD developement
+GOOD development
+
+COMPLETE 1
+CASE 0
+BAD developements
+GOOD developments
+
+COMPLETE 1
+CASE 0
+BAD developor
+GOOD developer
+
+COMPLETE 1
+CASE 0
+BAD developors
+GOOD developers
+
+COMPLETE 1
+CASE 0
+BAD develpment
+GOOD development
+
+COMPLETE 1
+CASE 0
+BAD diaplay
+GOOD display
+
+COMPLETE 1
+CASE 0
+BAD diasppoint
+GOOD disappoint
+
+COMPLETE 1
+CASE 0
+BAD didint
+GOOD didn't
+
+COMPLETE 1
+CASE 0
+BAD didnot
+GOOD did not
+
+COMPLETE 1
+CASE 0
+BAD didnt
+GOOD didn't
+
+COMPLETE 1
+CASE 0
+BAD did'nt
+GOOD didn't
+
+COMPLETE 0
+CASE 1
+BAD didn;t 
+GOOD didn't 
+
+COMPLETE 1
+CASE 0
+BAD difefrent
+GOOD different
+
+COMPLETE 1
+CASE 0
+BAD diferences
+GOOD differences
+
+COMPLETE 1
+CASE 0
+BAD differance
+GOOD difference
+
+COMPLETE 1
+CASE 0
+BAD differances
+GOOD differences
+
+COMPLETE 1
+CASE 0
+BAD differant
+GOOD different
+
+COMPLETE 1
+CASE 0
+BAD differemt
+GOOD different
+
+COMPLETE 1
+CASE 0
+BAD differnt
+GOOD different
+
+COMPLETE 1
+CASE 0
+BAD diffrent
+GOOD different
+
+COMPLETE 1
+CASE 0
+BAD din't
+GOOD didn't
+
+COMPLETE 1
+CASE 0
+BAD directer
+GOOD director
+
+COMPLETE 1
+CASE 0
+BAD directers
+GOOD directors
+
+COMPLETE 1
+CASE 0
+BAD directiosn
+GOOD direction
+
+COMPLETE 1
+CASE 0
+BAD disatisfied
+GOOD dissatisfied
+
+COMPLETE 1
+CASE 0
+BAD discoverd
+GOOD discovered
+
+COMPLETE 1
+CASE 0
+BAD disign
+GOOD design
+
+COMPLETE 1
+CASE 0
+BAD dispaly
+GOOD display
+
+COMPLETE 1
+CASE 0
+BAD dissonent
+GOOD dissonant
+
+COMPLETE 1
+CASE 0
+BAD distribusion
+GOOD distribution
+
+COMPLETE 1
+CASE 0
+BAD divsion
+GOOD division
+
+COMPLETE 1
+CASE 0
+BAD dn
+GOOD D:
+
+COMPLETE 1
+CASE 0
+BAD docuement
+GOOD documents
+
+COMPLETE 1
+CASE 0
+BAD docuemnt
+GOOD document
+
+COMPLETE 1
+CASE 0
+BAD documetn
+GOOD document
+
+COMPLETE 1
+CASE 0
+BAD documnet
+GOOD document
+
+COMPLETE 1
+CASE 0
+BAD documnets
+GOOD documents
+
+COMPLETE 1
+CASE 0
+BAD doen
+GOOD done
+
+COMPLETE 0
+CASE 1
+BAD doens't 
+GOOD doesn't 
+
+COMPLETE 1
+CASE 0
+BAD doese
+GOOD does
+
+COMPLETE 0
+CASE 1
+BAD doe snot 
+GOOD does not 
+
+COMPLETE 1
+CASE 0
+BAD doesnt
+GOOD doesn't
+
+COMPLETE 1
+CASE 0
+BAD does'nt
+GOOD doesn't
+
+COMPLETE 0
+CASE 1
+BAD doesn;t 
+GOOD doesn't 
+
+COMPLETE 1
+CASE 0
+BAD doesnt'
+GOOD doesn't
+
+COMPLETE 1
+CASE 0
+BAD doign
+GOOD doing
+
+COMPLETE 1
+CASE 0
+BAD doimg
+GOOD doing
+
+COMPLETE 1
+CASE 0
+BAD doind
+GOOD doing
+
+COMPLETE 1
+CASE 0
+BAD dollers
+GOOD dollars
+
+COMPLETE 1
+CASE 0
+BAD donig
+GOOD doing
+
+COMPLETE 1
+CASE 0
+BAD donno
+GOOD don't know
+
+COMPLETE 1
+CASE 0
+BAD dont
+GOOD don't
+
+COMPLETE 0
+CASE 1
+BAD do'nt 
+GOOD don't 
+
+COMPLETE 0
+CASE 1
+BAD don;t 
+GOOD don't 
+
+COMPLETE 1
+CASE 0
+BAD dont'
+GOOD don't
+
+COMPLETE 0
+CASE 1
+BAD don't no 
+GOOD don't know 
+
+COMPLETE 1
+CASE 0
+BAD dorr
+GOOD door
+
+COMPLETE 0
+CASE 1
+BAD dosn't 
+GOOD doesn't 
+
+COMPLETE 1
+CASE 0
+BAD driveing
+GOOD driving
+
+COMPLETE 1
+CASE 0
+BAD drnik
+GOOD drink
+
+COMPLETE 1
+CASE 0
+BAD earyl
+GOOD early
+
+COMPLETE 1
+CASE 0
+BAD eb
+GOOD be
+
+COMPLETE 1
+CASE 0
+BAD ebcause
+GOOD because
+
+COMPLETE 1
+CASE 0
+BAD eclair
+GOOD éclair
+
+COMPLETE 1
+CASE 0
+BAD efel
+GOOD feel
+
+COMPLETE 1
+CASE 0
+BAD effecient
+GOOD efficient
+
+COMPLETE 1
+CASE 0
+BAD efort
+GOOD effort
+
+COMPLETE 1
+CASE 0
+BAD eforts
+GOOD efforts
+
+COMPLETE 1
+CASE 0
+BAD ehr
+GOOD her
+
+COMPLETE 1
+CASE 0
+BAD eithre
+GOOD either
+
+COMPLETE 1
+CASE 0
+BAD eles
+GOOD else
+
+COMPLETE 1
+CASE 0
+BAD eligable
+GOOD eligible
+
+COMPLETE 1
+CASE 0
+BAD elough
+GOOD enough
+
+COMPLETE 1
+CASE 0
+BAD embarass
+GOOD embarrass
+
+COMPLETE 1
+CASE 0
+BAD emial
+GOOD email
+
+COMPLETE 1
+CASE 0
+BAD emigre
+GOOD émigré
+
+COMPLETE 1
+CASE 0
+BAD enought
+GOOD enough
+
+COMPLETE 1
+CASE 0
+BAD entree
+GOOD entrée
+
+COMPLETE 1
+CASE 0
+BAD enuf
+GOOD enough
+
+COMPLETE 1
+CASE 0
+BAD equippment
+GOOD equipment
+
+COMPLETE 1
+CASE 0
+BAD equivalant
+GOOD equivalent
+
+COMPLETE 1
+CASE 0
+BAD esle
+GOOD else
+
+COMPLETE 1
+CASE 0
+BAD especally
+GOOD especially
+
+COMPLETE 1
+CASE 0
+BAD especialyl
+GOOD especially
+
+COMPLETE 1
+CASE 0
+BAD espesially
+GOOD especially
+
+COMPLETE 1
+CASE 0
+BAD essense
+GOOD essence
+
+COMPLETE 1
+CASE 0
+BAD eth
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD everyhting
+GOOD everything
+
+COMPLETE 1
+CASE 0
+BAD everythin
+GOOD everything
+
+COMPLETE 1
+CASE 0
+BAD ewas
+GOOD was
+
+COMPLETE 1
+CASE 0
+BAD exactyl
+GOOD exactly
+
+COMPLETE 1
+CASE 0
+BAD excellance
+GOOD excellence
+
+COMPLETE 1
+CASE 0
+BAD excellant
+GOOD excellent
+
+COMPLETE 1
+CASE 0
+BAD excercise
+GOOD exercise
+
+COMPLETE 1
+CASE 0
+BAD excet
+GOOD except
+
+COMPLETE 1
+CASE 0
+BAD exchagne
+GOOD exchange
+
+COMPLETE 1
+CASE 0
+BAD exchagnes
+GOOD exchanges
+
+COMPLETE 1
+CASE 0
+BAD excitment
+GOOD excitement
+
+COMPLETE 1
+CASE 0
+BAD exhcange
+GOOD exchange
+
+COMPLETE 1
+CASE 0
+BAD exhcanges
+GOOD exchanges
+
+COMPLETE 1
+CASE 0
+BAD experiance
+GOOD experience
+
+COMPLETE 1
+CASE 0
+BAD experienc
+GOOD experience
+
+COMPLETE 1
+CASE 0
+BAD exprience
+GOOD experience
+
+COMPLETE 1
+CASE 0
+BAD exprienced
+GOOD experienced
+
+COMPLETE 1
+CASE 0
+BAD eyt
+GOOD yet
+
+COMPLETE 1
+CASE 0
+BAD facade
+GOOD façade
+
+COMPLETE 1
+CASE 0
+BAD faeture
+GOOD feature
+
+COMPLETE 1
+CASE 0
+BAD faetures
+GOOD feature
+
+COMPLETE 1
+CASE 0
+BAD familair
+GOOD familiar
+
+COMPLETE 1
+CASE 0
+BAD familar
+GOOD familiar
+
+COMPLETE 1
+CASE 0
+BAD familliar
+GOOD familiar
+
+COMPLETE 1
+CASE 0
+BAD fammiliar
+GOOD familiar
+
+COMPLETE 1
+CASE 0
+BAD feild
+GOOD field
+
+COMPLETE 1
+CASE 0
+BAD feilds
+GOOD fields
+
+COMPLETE 1
+CASE 0
+BAD ff
+GOOD SilverWolf
+
+COMPLETE 1
+CASE 0
+BAD fianlly
+GOOD finally
+
+COMPLETE 1
+CASE 0
+BAD fidn
+GOOD find
+
+COMPLETE 1
+CASE 0
+BAD finalyl
+GOOD finally
+
+COMPLETE 1
+CASE 0
+BAD firends
+GOOD friends
+
+COMPLETE 1
+CASE 0
+BAD firts
+GOOD first
+
+COMPLETE 1
+CASE 0
+BAD fligth
+GOOD flight
+
+COMPLETE 1
+CASE 0
+BAD flynig
+GOOD flying
+
+COMPLETE 1
+CASE 0
+BAD fo
+GOOD of
+
+COMPLETE 1
+CASE 0
+BAD follwo
+GOOD follow
+
+COMPLETE 1
+CASE 0
+BAD follwoing
+GOOD following
+
+COMPLETE 1
+CASE 0
+BAD fora
+GOOD for a
+
+COMPLETE 0
+CASE 1
+BAD foriegn
+GOOD foreign
+
+COMPLETE 1
+CASE 0
+BAD forthe
+GOOD for the
+
+COMPLETE 1
+CASE 0
+BAD forwrd
+GOOD forward
+
+COMPLETE 1
+CASE 0
+BAD forwrds
+GOOD forwards
+
+COMPLETE 1
+CASE 0
+BAD foudn
+GOOD found
+
+COMPLETE 1
+CASE 0
+BAD foward
+GOOD forward
+
+COMPLETE 1
+CASE 0
+BAD fowards
+GOOD forwards
+
+COMPLETE 1
+CASE 0
+BAD freind
+GOOD friend
+
+COMPLETE 1
+CASE 0
+BAD freindly
+GOOD friendly
+
+COMPLETE 1
+CASE 0
+BAD freinds
+GOOD friends
+
+COMPLETE 1
+CASE 0
+BAD friday
+GOOD Friday
+
+COMPLETE 1
+CASE 0
+BAD frideg
+GOOD fridge
+
+COMPLETE 1
+CASE 0
+BAD frmo
+GOOD from
+
+COMPLETE 1
+CASE 0
+BAD fro
+GOOD for
+
+COMPLETE 1
+CASE 0
+BAD fromthe
+GOOD from the
+
+COMPLETE 0
+CASE 1
+BAD fromt he 
+GOOD from the 
+
+COMPLETE 1
+CASE 0
+BAD furneral
+GOOD funeral
+
+COMPLETE 1
+CASE 0
+BAD futuer
+GOOD future
+
+COMPLETE 1
+CASE 0
+BAD fwe
+GOOD few
+
+COMPLETE 1
+CASE 0
+BAD gaing
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD garantee
+GOOD guarantee
+
+COMPLETE 1
+CASE 0
+BAD gaurd
+GOOD guard
+
+COMPLETE 1
+CASE 0
+BAD gemeral
+GOOD general
+
+COMPLETE 1
+CASE 0
+BAD gerat
+GOOD great
+
+COMPLETE 1
+CASE 0
+BAD geting
+GOOD getting
+
+COMPLETE 1
+CASE 0
+BAD gettig
+GOOD getting
+
+COMPLETE 1
+CASE 0
+BAD gettign
+GOOD getting
+
+COMPLETE 1
+CASE 0
+BAD gettin
+GOOD getting
+
+COMPLETE 1
+CASE 0
+BAD gievn
+GOOD given
+
+COMPLETE 1
+CASE 0
+BAD giong
+GOOD going
+
+COMPLETE 0
+CASE 1
+BAD gion g
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD giv
+GOOD give
+
+COMPLETE 1
+CASE 0
+BAD giveing
+GOOD giving
+
+COMPLETE 1
+CASE 0
+BAD gloabl
+GOOD global
+
+COMPLETE 1
+CASE 0
+BAD godo
+GOOD good
+
+COMPLETE 1
+CASE 0
+BAD goign
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD goin
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD gonan
+GOOD gonna
+
+COMPLETE 1
+CASE 0
+BAD gonig
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD gorunds
+GOOD grounds
+
+COMPLETE 1
+CASE 0
+BAD govenment
+GOOD government
+
+COMPLETE 1
+CASE 0
+BAD goverment
+GOOD government
+
+COMPLETE 0
+CASE 1
+BAD grand rapids
+GOOD Grand Rapids
+
+COMPLETE 1
+CASE 0
+BAD gruop
+GOOD group
+
+COMPLETE 1
+CASE 0
+BAD gruops
+GOOD groups
+
+COMPLETE 1
+CASE 0
+BAD grwo
+GOOD grow
+
+COMPLETE 1
+CASE 0
+BAD gte
+GOOD get
+
+COMPLETE 1
+CASE 0
+BAD gues
+GOOD guess
+
+COMPLETE 1
+CASE 0
+BAD guidlines
+GOOD guidelines
+
+COMPLETE 1
+CASE 0
+BAD hadbeen
+GOOD had been
+
+COMPLETE 1
+CASE 0
+BAD hadnt
+GOOD hadn't
+
+COMPLETE 1
+CASE 0
+BAD had'nt
+GOOD hadn't
+
+COMPLETE 0
+CASE 1
+BAD hadn;t 
+GOOD hadn't 
+
+COMPLETE 1
+CASE 0
+BAD hae
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD haev
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD hapen
+GOOD happen
+
+COMPLETE 1
+CASE 0
+BAD hapened
+GOOD happened
+
+COMPLETE 1
+CASE 0
+BAD hapening
+GOOD happening
+
+COMPLETE 1
+CASE 0
+BAD hapens
+GOOD happens
+
+COMPLETE 1
+CASE 0
+BAD happend
+GOOD happened
+
+COMPLETE 1
+CASE 0
+BAD hasbeen
+GOOD has been
+
+COMPLETE 1
+CASE 0
+BAD hasnt
+GOOD hasn't
+
+COMPLETE 1
+CASE 0
+BAD has'nt
+GOOD hasn't
+
+COMPLETE 0
+CASE 1
+BAD hasn;t 
+GOOD hasn't 
+
+COMPLETE 1
+CASE 0
+BAD hav
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD havebeen
+GOOD have been
+
+COMPLETE 1
+CASE 0
+BAD haveing
+GOOD having
+
+COMPLETE 1
+CASE 0
+BAD havent
+GOOD haven't
+
+COMPLETE 1
+CASE 0
+BAD have'nt
+GOOD haven't
+
+COMPLETE 0
+CASE 1
+BAD haven;t 
+GOOD haven't 
+
+COMPLETE 1
+CASE 0
+BAD hav'nt
+GOOD haven't
+
+COMPLETE 1
+CASE 0
+BAD hda
+GOOD had
+
+COMPLETE 1
+CASE 0
+BAD hearign
+GOOD hearing
+
+COMPLETE 0
+CASE 1
+BAD he;d 
+GOOD he'd 
+
+COMPLETE 1
+CASE 0
+BAD heirarchy
+GOOD hierarchy
+
+COMPLETE 1
+CASE 0
+BAD hel
+GOOD he'll
+
+COMPLETE 0
+CASE 1
+BAD he;ll 
+GOOD he'll 
+
+COMPLETE 1
+CASE 0
+BAD helpfull
+GOOD helpful
+
+COMPLETE 1
+CASE 1
+BAD hera
+GOOD hear
+
+COMPLETE 1
+CASE 0
+BAD herad
+GOOD heard
+
+COMPLETE 1
+CASE 0
+BAD herat
+GOOD heart
+
+COMPLETE 1
+CASE 0
+BAD heres
+GOOD here's
+
+COMPLETE 0
+CASE 1
+BAD here;s 
+GOOD here's 
+
+COMPLETE 1
+CASE 0
+BAD hes
+GOOD he's
+
+COMPLETE 0
+CASE 1
+BAD he;s 
+GOOD he's 
+
+COMPLETE 1
+CASE 0
+BAD hesaid
+GOOD he said
+
+COMPLETE 1
+CASE 0
+BAD hewas
+GOOD he was
+
+COMPLETE 1
+CASE 0
+BAD hge
+GOOD he
+
+COMPLETE 1
+CASE 0
+BAD hice
+GOOD nice
+
+COMPLETE 1
+CASE 0
+BAD hismelf
+GOOD himself
+
+COMPLETE 1
+CASE 0
+BAD hlep
+GOOD help
+
+COMPLETE 1
+CASE 0
+BAD hopefulyl
+GOOD hopefully
+
+COMPLETE 1
+CASE 0
+BAD hott
+GOOD hot
+
+COMPLETE 1
+CASE 0
+BAD hows
+GOOD how's
+
+COMPLETE 1
+CASE 0
+BAD hsa
+GOOD has
+
+COMPLETE 1
+CASE 1
+BAD hsd
+GOOD hit, stand, double
+
+COMPLETE 1
+CASE 0
+BAD hse
+GOOD she
+
+COMPLETE 1
+CASE 0
+BAD hsi
+GOOD his
+
+COMPLETE 1
+CASE 0
+BAD htan
+GOOD than
+
+COMPLETE 1
+CASE 0
+BAD htat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD htat's
+GOOD that's
+
+COMPLETE 1
+CASE 0
+BAD hte
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD htem
+GOOD them
+
+COMPLETE 1
+CASE 0
+BAD hten
+GOOD then
+
+COMPLETE 1
+CASE 0
+BAD htere
+GOOD there
+
+COMPLETE 1
+CASE 0
+BAD htese
+GOOD these
+
+COMPLETE 1
+CASE 0
+BAD htey
+GOOD they
+
+COMPLETE 1
+CASE 0
+BAD hting
+GOOD thing
+
+COMPLETE 1
+CASE 0
+BAD htink
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD htis
+GOOD this
+
+COMPLETE 0
+CASE 1
+BAD htp:
+GOOD http:
+
+COMPLETE 1
+CASE 0
+BAD htree
+GOOD three
+
+COMPLETE 0
+CASE 1
+BAD httpL
+GOOD http:
+
+COMPLETE 1
+CASE 0
+BAD hvae
+GOOD have
+
+COMPLETE 1
+CASE 0
+BAD hvaing
+GOOD having
+
+COMPLETE 1
+CASE 0
+BAD hwat
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD hwich
+GOOD which
+
+COMPLETE 1
+CASE 0
+BAD hwo
+GOOD how
+
+COMPLETE 1
+CASE 0
+BAD i
+GOOD I
+
+COMPLETE 0
+CASE 1
+BAD i c 
+GOOD I see 
+
+COMPLETE 0
+CASE 1
+BAD i;d 
+GOOD I'd 
+
+COMPLETE 0
+CASE 1
+BAD i'd 
+GOOD I'd 
+
+COMPLETE 0
+CASE 1
+BAD I;d 
+GOOD I'd 
+
+COMPLETE 1
+CASE 0
+BAD idae
+GOOD idea
+
+COMPLETE 1
+CASE 0
+BAD idaes
+GOOD ideas
+
+COMPLETE 1
+CASE 0
+BAD idd
+GOOD did
+
+COMPLETE 1
+CASE 0
+BAD identofy
+GOOD identify
+
+COMPLETE 1
+CASE 0
+BAD ieda
+GOOD idea
+
+COMPLETE 1
+CASE 0
+BAD ihs
+GOOD his
+
+COMPLETE 1
+CASE 0
+BAD iits the
+GOOD it's the
+
+COMPLETE 1
+CASE 0
+BAD ilke
+GOOD like
+
+COMPLETE 0
+CASE 1
+BAD i'll 
+GOOD I'll 
+
+COMPLETE 0
+CASE 1
+BAD I;ll 
+GOOD I'll 
+
+COMPLETE 0
+CASE 1
+BAD i;m 
+GOOD I'm 
+
+COMPLETE 0
+CASE 1
+BAD i'm 
+GOOD I'm 
+
+COMPLETE 1
+CASE 0
+BAD im'
+GOOD i'm
+
+COMPLETE 0
+CASE 1
+BAD I"m 
+GOOD I'm 
+
+COMPLETE 1
+CASE 0
+BAD imediate
+GOOD immediate
+
+COMPLETE 1
+CASE 0
+BAD imediatly
+GOOD immediately
+
+COMPLETE 1
+CASE 0
+BAD I'mm 
+GOOD I'm 
+
+COMPLETE 1
+CASE 0
+BAD immedaitely
+GOOD immediately
+
+COMPLETE 1
+CASE 0
+BAD immediatly
+GOOD immediately
+
+COMPLETE 1
+CASE 0
+BAD importent
+GOOD important
+
+COMPLETE 1
+CASE 0
+BAD importnat
+GOOD important
+
+COMPLETE 1
+CASE 0
+BAD impossable
+GOOD impossible
+
+COMPLETE 1
+CASE 0
+BAD improvemnt
+GOOD improvement
+
+COMPLETE 1
+CASE 0
+BAD improvment
+GOOD improvement
+
+COMPLETE 1
+CASE 0
+BAD includ
+GOOD include
+
+COMPLETE 1
+CASE 0
+BAD incredibl
+GOOD incredibly
+
+COMPLETE 1
+CASE 0
+BAD indecate
+GOOD indicate
+
+COMPLETE 1
+CASE 0
+BAD indenpendence
+GOOD independence
+
+COMPLETE 1
+CASE 0
+BAD indenpendent
+GOOD independent
+
+COMPLETE 1
+CASE 0
+BAD indepedent
+GOOD independent
+
+COMPLETE 1
+CASE 0
+BAD independance
+GOOD independence
+
+COMPLETE 1
+CASE 0
+BAD independant
+GOOD independent
+
+COMPLETE 1
+CASE 0
+BAD influance
+GOOD influence
+
+COMPLETE 1
+CASE 0
+BAD infomation
+GOOD information
+
+COMPLETE 1
+CASE 0
+BAD informatoin
+GOOD information
+
+COMPLETE 1
+CASE 0
+BAD inital
+GOOD initial
+
+COMPLETE 1
+CASE 0
+BAD instaleld
+GOOD installed
+
+COMPLETE 1
+CASE 0
+BAD insted
+GOOD instead
+
+COMPLETE 1
+CASE 0
+BAD insurence
+GOOD insurance
+
+COMPLETE 1
+CASE 0
+BAD inteh
+GOOD in the
+
+COMPLETE 1
+CASE 0
+BAD interum
+GOOD interim
+
+COMPLETE 1
+CASE 0
+BAD inthe
+GOOD in the
+
+COMPLETE 0
+CASE 1
+BAD int he 
+GOOD in the 
+
+COMPLETE 1
+CASE 0
+BAD inturn
+GOOD intern
+
+COMPLETE 1
+CASE 0
+BAD inwhich
+GOOD in which
+
+COMPLETE 0
+CASE 1
+BAD i snot 
+GOOD is not 
+
+COMPLETE 1
+CASE 0
+BAD isnt
+GOOD isn't
+
+COMPLETE 1
+CASE 0
+BAD is'nt
+GOOD isn't
+
+COMPLETE 0
+CASE 1
+BAD isn;t 
+GOOD isn't 
+
+COMPLETE 1
+CASE 0
+BAD istead
+GOOD instead
+
+COMPLETE 1
+CASE 0
+BAD isthe
+GOOD is the
+
+COMPLETE 1
+CASE 0
+BAD itd
+GOOD it'd
+
+COMPLETE 0
+CASE 1
+BAD it;d 
+GOOD it'd 
+
+COMPLETE 1
+CASE 0
+BAD ithnk
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD itis
+GOOD it is
+
+COMPLETE 1
+CASE 0
+BAD ititial
+GOOD initial
+
+COMPLETE 1
+CASE 0
+BAD itll
+GOOD it'll
+
+COMPLETE 0
+CASE 1
+BAD it;ll 
+GOOD it'll 
+
+COMPLETE 1
+CASE 0
+BAD itnerest
+GOOD interest
+
+COMPLETE 1
+CASE 0
+BAD itnerested
+GOOD interested
+
+COMPLETE 1
+CASE 0
+BAD itneresting
+GOOD interesting
+
+COMPLETE 1
+CASE 0
+BAD itnerests
+GOOD interests
+
+COMPLETE 1
+CASE 0
+BAD i'ts
+GOOD it's
+
+COMPLETE 0
+CASE 1
+BAD it;s 
+GOOD it's 
+
+COMPLETE 1
+CASE 0
+BAD itsa
+GOOD it's a
+
+COMPLETE 0
+CASE 1
+BAD  its a 
+GOOD  it's a 
+
+COMPLETE 0
+CASE 1
+BAD  it snot 
+GOOD  it's not 
+
+COMPLETE 0
+CASE 1
+BAD  it' snot 
+GOOD  it's not 
+
+COMPLETE 0
+CASE 1
+BAD  its the 
+GOOD  it's the 
+
+COMPLETE 1
+CASE 0
+BAD itwas
+GOOD it was
+
+COMPLETE 1
+CASE 0
+BAD I'v
+GOOD I've
+
+COMPLETE 1
+CASE 0
+BAD ive
+GOOD I've
+
+COMPLETE 0
+CASE 1
+BAD i;ve 
+GOOD I've 
+
+COMPLETE 0
+CASE 1
+BAD i've 
+GOOD I've 
+
+COMPLETE 1
+CASE 0
+BAD iwll
+GOOD will
+
+COMPLETE 1
+CASE 0
+BAD iwth
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD ja
+GOOD [Jared]
+
+COMPLETE 1
+CASE 0
+BAD jj
+GOOD [JC]
+
+COMPLETE 1
+CASE 0
+BAD jsut
+GOOD just
+
+COMPLETE 1
+CASE 0
+BAD judgement
+GOOD judgment
+
+COMPLETE 1
+CASE 0
+BAD jugment
+GOOD judgment
+
+COMPLETE 1
+CASE 0
+BAD jus
+GOOD just
+
+COMPLETE 1
+CASE 0
+BAD jut
+GOOD just
+
+COMPLETE 1
+CASE 0
+BAD juts
+GOOD just
+
+COMPLETE 1
+CASE 1
+BAD kack
+GOOD ["""]
+
+COMPLETE 1
+CASE 0
+BAD kno
+GOOD know
+
+COMPLETE 1
+CASE 0
+BAD knowldge
+GOOD knowledge
+
+COMPLETE 1
+CASE 0
+BAD knowlege
+GOOD knowledge
+
+COMPLETE 1
+CASE 0
+BAD knwo
+GOOD know
+
+COMPLETE 1
+CASE 0
+BAD knwon
+GOOD known
+
+COMPLETE 1
+CASE 0
+BAD knwos
+GOOD knows
+
+COMPLETE 1
+CASE 0
+BAD konw
+GOOD know
+
+COMPLETE 1
+CASE 0
+BAD konwn
+GOOD known
+
+COMPLETE 1
+CASE 0
+BAD konws
+GOOD knows
+
+COMPLETE 1
+CASE 1
+BAD ksyn
+GOOD :=--
+
+COMPLETE 1
+CASE 0
+BAD kust
+GOOD just
+
+COMPLETE 1
+CASE 0
+BAD labratory
+GOOD laboratory
+
+COMPLETE 1
+CASE 0
+BAD labtop
+GOOD laptop
+
+COMPLETE 1
+CASE 1
+BAD lansing
+GOOD Lansing
+
+COMPLETE 1
+CASE 0
+BAD lastyear
+GOOD last year
+
+COMPLETE 1
+CASE 0
+BAD leaest
+GOOD least
+
+COMPLETE 1
+CASE 0
+BAD learnign
+GOOD learning
+
+COMPLETE 1
+CASE 0
+BAD leats
+GOOD least
+
+COMPLETE 1
+CASE 0
+BAD lenght
+GOOD length
+
+COMPLETE 1
+CASE 0
+BAD lesat
+GOOD least
+
+COMPLETE 0
+CASE 1
+BAD let;s 
+GOOD let's 
+
+COMPLETE 0
+CASE 1
+BAD let's him 
+GOOD lets him 
+
+COMPLETE 0
+CASE 1
+BAD let's it 
+GOOD lets it 
+
+COMPLETE 1
+CASE 0
+BAD levle
+GOOD level
+
+COMPLETE 1
+CASE 0
+BAD Lexy
+GOOD Lexi
+
+COMPLETE 1
+CASE 0
+BAD libary
+GOOD library
+
+COMPLETE 1
+CASE 0
+BAD librarry
+GOOD library
+
+COMPLETE 1
+CASE 0
+BAD librery
+GOOD library
+
+COMPLETE 1
+CASE 0
+BAD liek
+GOOD like
+
+COMPLETE 1
+CASE 0
+BAD liekd
+GOOD liked
+
+COMPLETE 1
+CASE 0
+BAD lieutenent
+GOOD lieutenant
+
+COMPLETE 1
+CASE 0
+BAD liev
+GOOD live
+
+COMPLETE 1
+CASE 0
+BAD likeu
+GOOD like
+
+COMPLETE 1
+CASE 0
+BAD likly
+GOOD likely
+
+COMPLETE 1
+CASE 0
+BAD likue
+GOOD like
+
+COMPLETE 1
+CASE 0
+BAD lisense
+GOOD license
+
+COMPLETE 1
+CASE 0
+BAD littel
+GOOD little
+
+COMPLETE 1
+CASE 0
+BAD litttle
+GOOD little
+
+COMPLETE 1
+CASE 0
+BAD liuke
+GOOD like
+
+COMPLETE 1
+CASE 0
+BAD liveing
+GOOD living
+
+COMPLETE 1
+CASE 0
+BAD lke
+GOOD like
+
+COMPLETE 1
+CASE 0
+BAD locatino
+GOOD location
+
+COMPLETE 1
+CASE 0
+BAD loev
+GOOD love
+
+COMPLETE 1
+CASE 0
+BAD loks
+GOOD looks
+
+COMPLETE 1
+CASE 0
+BAD lonly
+GOOD lonely
+
+COMPLETE 1
+CASE 0
+BAD lookign
+GOOD looking
+
+COMPLETE 1
+CASE 0
+BAD lookng
+GOOD looking
+
+COMPLETE 1
+CASE 0
+BAD looknig
+GOOD looking
+
+COMPLETE 1
+CASE 0
+BAD lseat
+GOOD least
+
+COMPLETE 1
+CASE 0
+BAD maby
+GOOD maybe
+
+COMPLETE 1
+CASE 0
+BAD mabye
+GOOD maybe
+
+COMPLETE 1
+CASE 0
+BAD maed
+GOOD made
+
+COMPLETE 1
+CASE 0
+BAD maintainence
+GOOD maintenance
+
+COMPLETE 1
+CASE 0
+BAD maintenence
+GOOD maintenance
+
+COMPLETE 1
+CASE 0
+BAD makeing
+GOOD making
+
+COMPLETE 1
+CASE 0
+BAD makse
+GOOD makes
+
+COMPLETE 1
+CASE 0
+BAD managment
+GOOD management
+
+COMPLETE 1
+CASE 0
+BAD mantain
+GOOD maintain
+
+COMPLETE 1
+CASE 0
+BAD marraige
+GOOD marriage
+
+COMPLETE 0
+CASE 1
+BAD may of been
+GOOD may have been
+
+COMPLETE 0
+CASE 1
+BAD may of had
+GOOD may have had
+
+COMPLETE 1
+CASE 0
+BAD memeber
+GOOD member
+
+COMPLETE 1
+CASE 0
+BAD mena
+GOOD mean
+
+COMPLETE 1
+CASE 0
+BAD menas
+GOOD means
+
+COMPLETE 1
+CASE 0
+BAD menat
+GOOD meant
+
+COMPLETE 1
+CASE 0
+BAD merchent
+GOOD merchant
+
+COMPLETE 1
+CASE 0
+BAD mesage
+GOOD message
+
+COMPLETE 1
+CASE 0
+BAD mesages
+GOOD messages
+
+COMPLETE 1
+CASE 0
+BAD migght
+GOOD might
+
+COMPLETE 1
+CASE 0
+BAD migh
+GOOD might
+
+COMPLETE 0
+CASE 1
+BAD might of been
+GOOD might have been
+
+COMPLETE 0
+CASE 1
+BAD might of had
+GOOD might have had
+
+COMPLETE 1
+CASE 0
+BAD migth
+GOOD might
+
+COMPLETE 1
+CASE 0
+BAD mispell
+GOOD misspell
+
+COMPLETE 1
+CASE 0
+BAD mispelling
+GOOD misspelling
+
+COMPLETE 1
+CASE 0
+BAD mispellings
+GOOD misspellings
+
+COMPLETE 1
+CASE 0
+BAD miuntes
+GOOD minutes
+
+COMPLETE 1
+CASE 0
+BAD mkae
+GOOD make
+
+COMPLETE 1
+CASE 0
+BAD mkaes
+GOOD makes
+
+COMPLETE 1
+CASE 0
+BAD mkaing
+GOOD making
+
+COMPLETE 1
+CASE 0
+BAD moeny
+GOOD money
+
+COMPLETE 1
+CASE 0
+BAD monday
+GOOD Monday
+
+COMPLETE 1
+CASE 0
+BAD monht
+GOOD month
+
+COMPLETE 1
+CASE 0
+BAD morgage
+GOOD mortgage
+
+COMPLETE 1
+CASE 0
+BAD mroe
+GOOD more
+
+COMPLETE 1
+CASE 0
+BAD msot
+GOOD most
+
+COMPLETE 0
+CASE 1
+BAD must of been
+GOOD must have been
+
+COMPLETE 0
+CASE 1
+BAD must of had
+GOOD must have had
+
+COMPLETE 0
+CASE 1
+BAD mute point
+GOOD moot point
+
+COMPLETE 1
+CASE 0
+BAD mysefl
+GOOD myself
+
+COMPLETE 1
+CASE 0
+BAD myu
+GOOD my
+
+COMPLETE 1
+CASE 0
+BAD n1d10
+GOOD /dice 1 10
+
+COMPLETE 1
+CASE 0
+BAD n1d100
+GOOD /dice 1 100
+
+COMPLETE 1
+CASE 0
+BAD n1d4
+GOOD /dice 1 4
+
+COMPLETE 1
+CASE 0
+BAD n1d6
+GOOD /dice 1 6
+
+COMPLETE 1
+CASE 0
+BAD n1d8
+GOOD /dice 1 8
+
+COMPLETE 1
+CASE 0
+BAD nad
+GOOD and
+
+COMPLETE 1
+CASE 0
+BAD naive
+GOOD naïve
+
+COMPLETE 1
+CASE 0
+BAD naturalyl
+GOOD naturally
+
+COMPLETE 1
+CASE 1
+BAD nc
+GOOD (:
+
+COMPLETE 1
+CASE 1
+BAD NC
+GOOD ^__^
+
+COMPLETE 1
+CASE 1
+BAD ncc
+GOOD :]
+
+COMPLETE 1
+CASE 0
+BAD nd
+GOOD :D
+
+COMPLETE 1
+CASE 0
+BAD ne1
+GOOD anyone
+
+COMPLETE 1
+CASE 0
+BAD necassarily
+GOOD necessarily
+
+COMPLETE 1
+CASE 0
+BAD necassary
+GOOD necessary
+
+COMPLETE 1
+CASE 0
+BAD neccessarily
+GOOD necessarily
+
+COMPLETE 1
+CASE 0
+BAD neccessary
+GOOD necessary
+
+COMPLETE 1
+CASE 0
+BAD necesarily
+GOOD necessarily
+
+COMPLETE 1
+CASE 0
+BAD necesary
+GOOD necessary
+
+COMPLETE 1
+CASE 0
+BAD nede
+GOOD need
+
+COMPLETE 1
+CASE 0
+BAD needin
+GOOD needing
+
+COMPLETE 1
+CASE 0
+BAD neevr
+GOOD never
+
+COMPLETE 1
+CASE 0
+BAD negotiaing
+GOOD negotiating
+
+COMPLETE 1
+CASE 0
+BAD neway
+GOOD anyway
+
+COMPLETE 1
+CASE 0
+BAD neways
+GOOD anyways
+
+COMPLETE 1
+CASE 1
+BAD nh
+GOOD (grin)
+
+COMPLETE 1
+CASE 1
+BAD nH
+GOOD (grin)
+
+COMPLETE 1
+CASE 1
+BAD Nh
+GOOD (grin)
+
+COMPLETE 1
+CASE 1
+BAD NH
+GOOD (GRIN!)
+
+COMPLETE 1
+CASE 0
+BAD nhh
+GOOD //roll-dice1-sides20
+
+COMPLETE 1
+CASE 0
+BAD nhh100
+GOOD //roll-dice1-sides100
+
+COMPLETE 1
+CASE 0
+BAD nhh2
+GOOD //roll-dice2-sides20
+
+COMPLETE 1
+CASE 0
+BAD nhh3
+GOOD //roll-dice3-sides20
+
+COMPLETE 1
+CASE 0
+BAD nhh4
+GOOD //roll-dice4-sides20
+
+COMPLETE 1
+CASE 0
+BAD nhh5
+GOOD //roll-dice5-sides20
+
+COMPLETE 1
+CASE 0
+BAD ni
+GOOD in
+
+COMPLETE 1
+CASE 0
+BAD nigght
+GOOD night
+
+COMPLETE 1
+CASE 0
+BAD nigt
+GOOD night
+
+COMPLETE 1
+CASE 0
+BAD nigth
+GOOD night
+
+COMPLETE 1
+CASE 0
+BAD nkow
+GOOD know
+
+COMPLETE 1
+CASE 0
+BAD nn
+GOOD [Lexi]
+
+COMPLETE 1
+CASE 1
+BAD nnh
+GOOD /dice 1 20
+
+COMPLETE 1
+CASE 0
+BAD nnh100
+GOOD /dice 1 100
+
+COMPLETE 1
+CASE 0
+BAD nnh2
+GOOD /dice 2 20
+
+COMPLETE 1
+CASE 0
+BAD nnh3
+GOOD /dice 3 20
+
+COMPLETE 1
+CASE 0
+BAD nnh3d8
+GOOD /dice 3 8
+
+COMPLETE 1
+CASE 0
+BAD nnh4
+GOOD /dice 4 20
+
+COMPLETE 1
+CASE 0
+BAD nnh5
+GOOD /dice 5 20
+
+COMPLETE 1
+CASE 0
+BAD nnh7
+GOOD /dice 2 700
+
+COMPLETE 1
+CASE 0
+BAD noddign
+GOOD nodding
+
+COMPLETE 1
+CASE 0
+BAD nothign
+GOOD nothing
+
+COMPLETE 1
+CASE 1
+BAD np
+GOOD :P
+
+COMPLETE 1
+CASE 0
+BAD nto
+GOOD not
+
+COMPLETE 1
+CASE 0
+BAD nver
+GOOD never
+
+COMPLETE 1
+CASE 0
+BAD nwe
+GOOD new
+
+COMPLETE 1
+CASE 0
+BAD nwo
+GOOD now
+
+COMPLETE 1
+CASE 0
+BAD obediant
+GOOD obedient
+
+COMPLETE 1
+CASE 0
+BAD ocasion
+GOOD occasion
+
+COMPLETE 1
+CASE 0
+BAD occassion
+GOOD occasion
+
+COMPLETE 1
+CASE 0
+BAD occurance
+GOOD occurrence
+
+COMPLETE 1
+CASE 0
+BAD occured
+GOOD occurred
+
+COMPLETE 1
+CASE 0
+BAD occurence
+GOOD occurrence
+
+COMPLETE 1
+CASE 0
+BAD occurrance
+GOOD occurrence
+
+COMPLETE 1
+CASE 0
+BAD oclock
+GOOD o'clock
+
+COMPLETE 1
+CASE 0
+BAD oculd
+GOOD could
+
+COMPLETE 1
+CASE 0
+BAD ocur
+GOOD occur
+
+COMPLETE 1
+CASE 0
+BAD od
+GOOD do
+
+COMPLETE 1
+CASE 0
+BAD oenc
+GOOD once
+
+COMPLETE 1
+CASE 0
+BAD oeprator
+GOOD operator
+
+COMPLETE 1
+CASE 0
+BAD ofits
+GOOD of its
+
+COMPLETE 1
+CASE 0
+BAD ofr
+GOOD for
+
+COMPLETE 1
+CASE 0
+BAD ofthe
+GOOD of the
+
+COMPLETE 1
+CASE 0
+BAD oft he
+GOOD of the
+
+COMPLETE 1
+CASE 0
+BAD og
+GOOD go
+
+COMPLETE 1
+CASE 0
+BAD oges
+GOOD goes
+
+COMPLETE 1
+CASE 0
+BAD oging
+GOOD going
+
+COMPLETE 1
+CASE 0
+BAD ohter
+GOOD other
+
+COMPLETE 1
+CASE 0
+BAD omre
+GOOD more
+
+COMPLETE 1
+CASE 0
+BAD onec
+GOOD once
+
+COMPLETE 1
+CASE 0
+BAD oneof
+GOOD one of
+
+COMPLETE 1
+CASE 0
+BAD onepoint
+GOOD one point
+
+COMPLETE 1
+CASE 0
+BAD ont
+GOOD not
+
+COMPLETE 1
+CASE 0
+BAD onthe
+GOOD on the
+
+COMPLETE 0
+CASE 1
+BAD ont he 
+GOOD on the 
+
+COMPLETE 1
+CASE 0
+BAD onther
+GOOD other
+
+COMPLETE 1
+CASE 0
+BAD onyl
+GOOD only
+
+COMPLETE 1
+CASE 0
+BAD oppasite
+GOOD opposite
+
+COMPLETE 1
+CASE 0
+BAD opperation
+GOOD operation
+
+COMPLETE 1
+CASE 0
+BAD oppertunity
+GOOD opportunity
+
+COMPLETE 1
+CASE 0
+BAD opposate
+GOOD opposite
+
+COMPLETE 1
+CASE 0
+BAD opposible
+GOOD opposable
+
+COMPLETE 1
+CASE 0
+BAD opposit
+GOOD opposite
+
+COMPLETE 1
+CASE 0
+BAD oppotunities
+GOOD opportunities
+
+COMPLETE 1
+CASE 0
+BAD oppotunity
+GOOD opportunity
+
+COMPLETE 1
+CASE 0
+BAD orginization
+GOOD organization
+
+COMPLETE 1
+CASE 0
+BAD orginized
+GOOD organized
+
+COMPLETE 0
+CASE 1
+BAD origion
+GOOD origin
+
+COMPLETE 1
+CASE 0
+BAD origonal
+GOOD original
+
+COMPLETE 1
+CASE 0
+BAD ot
+GOOD to
+
+COMPLETE 1
+CASE 0
+BAD otday
+GOOD today
+
+COMPLETE 1
+CASE 0
+BAD otehr
+GOOD other
+
+COMPLETE 1
+CASE 0
+BAD oto
+GOOD too
+
+COMPLETE 1
+CASE 0
+BAD otu
+GOOD out
+
+COMPLETE 1
+CASE 0
+BAD outof
+GOOD out of
+
+COMPLETE 1
+CASE 0
+BAD overthe
+GOOD over the
+
+COMPLETE 1
+CASE 0
+BAD owrk
+GOOD work
+
+COMPLETE 1
+CASE 0
+BAD owuld
+GOOD would
+
+COMPLETE 1
+CASE 0
+BAD oxident
+GOOD oxidant
+
+COMPLETE 1
+CASE 0
+BAD palce
+GOOD place
+
+COMPLETE 1
+CASE 0
+BAD papaer
+GOOD paper
+
+COMPLETE 1
+CASE 0
+BAD parliment
+GOOD parliament
+
+COMPLETE 1
+CASE 0
+BAD partof
+GOOD part of
+
+COMPLETE 0
+CASE 1
+BAD paseeng
+GOOD passeng
+
+COMPLETE 1
+CASE 0
+BAD passe
+GOOD passé
+
+COMPLETE 1
+CASE 0
+BAD paymetn
+GOOD payment
+
+COMPLETE 1
+CASE 0
+BAD paymetns
+GOOD payments
+
+COMPLETE 1
+CASE 0
+BAD pciture
+GOOD picture
+
+COMPLETE 1
+CASE 0
+BAD peice
+GOOD piece
+
+COMPLETE 1
+CASE 0
+BAD peices
+GOOD pieces
+
+COMPLETE 1
+CASE 0
+BAD peolpe
+GOOD people
+
+COMPLETE 1
+CASE 0
+BAD peopel
+GOOD people
+
+COMPLETE 1
+CASE 0
+BAD percentof
+GOOD percent of
+
+COMPLETE 1
+CASE 0
+BAD percentto
+GOOD percent to
+
+COMPLETE 1
+CASE 0
+BAD performence
+GOOD performance
+
+COMPLETE 1
+CASE 0
+BAD perhasp
+GOOD perhaps
+
+COMPLETE 1
+CASE 0
+BAD perhpas
+GOOD perhaps
+
+COMPLETE 1
+CASE 0
+BAD permanant
+GOOD permanent
+
+COMPLETE 1
+CASE 0
+BAD perminent
+GOOD permanent
+
+COMPLETE 1
+CASE 0
+BAD personalyl
+GOOD personally
+
+COMPLETE 1
+CASE 0
+BAD pleasent
+GOOD pleasant
+
+COMPLETE 1
+CASE 0
+BAD poeple
+GOOD people
+
+COMPLETE 1
+CASE 0
+BAD poitn
+GOOD point
+
+COMPLETE 1
+CASE 0
+BAD porblem
+GOOD problem
+
+COMPLETE 1
+CASE 0
+BAD porblems
+GOOD problems
+
+COMPLETE 1
+CASE 0
+BAD porvide
+GOOD provide
+
+COMPLETE 1
+CASE 0
+BAD possable
+GOOD possible
+
+COMPLETE 1
+CASE 0
+BAD postition
+GOOD position
+
+COMPLETE 1
+CASE 0
+BAD potatoe
+GOOD potato
+
+COMPLETE 1
+CASE 0
+BAD potatos
+GOOD potatoes
+
+COMPLETE 1
+CASE 0
+BAD potentialy
+GOOD potentially
+
+COMPLETE 1
+CASE 0
+BAD powerd
+GOOD powered
+
+COMPLETE 1
+CASE 0
+BAD pregnent
+GOOD pregnant
+
+COMPLETE 1
+CASE 0
+BAD presance
+GOOD presence
+
+COMPLETE 1
+CASE 0
+BAD pretyt
+GOOD pretty
+
+COMPLETE 1
+CASE 0
+BAD primative
+GOOD primitive
+
+COMPLETE 1
+CASE 0
+BAD probaby
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD probabyl
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD probally
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD probaly
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD probbaly
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD probelm
+GOOD problem
+
+COMPLETE 1
+CASE 0
+BAD probelms
+GOOD problems
+
+COMPLETE 1
+CASE 0
+BAD probly
+GOOD probably
+
+COMPLETE 1
+CASE 0
+BAD prominant
+GOOD prominent
+
+COMPLETE 1
+CASE 0
+BAD proposterous
+GOOD preposterous
+
+COMPLETE 1
+CASE 0
+BAD protege
+GOOD protégé
+
+COMPLETE 1
+CASE 0
+BAD protoge
+GOOD protégé
+
+COMPLETE 1
+CASE 0
+BAD psoition
+GOOD position
+
+COMPLETE 1
+CASE 0
+BAD ptogress
+GOOD progress
+
+COMPLETE 1
+CASE 0
+BAD pursuade
+GOOD persuade
+
+COMPLETE 1
+CASE 0
+BAD puting
+GOOD putting
+
+COMPLETE 1
+CASE 0
+BAD pwoer
+GOOD power
+
+COMPLETE 1
+CASE 0
+BAD quater
+GOOD quarter
+
+COMPLETE 1
+CASE 0
+BAD quaters
+GOOD quarters
+
+COMPLETE 1
+CASE 0
+BAD quesion
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD quesions
+GOOD questions
+
+COMPLETE 1
+CASE 0
+BAD quesiton
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD questino
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD questioms
+GOOD questions
+
+COMPLETE 1
+CASE 0
+BAD questiosn
+GOOD questions
+
+COMPLETE 1
+CASE 0
+BAD questoin
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD queston
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD quetion
+GOOD question
+
+COMPLETE 1
+CASE 0
+BAD quetions
+GOOD questions
+
+COMPLETE 1
+CASE 0
+BAD raeson
+GOOD reason
+
+COMPLETE 1
+CASE 0
+BAD rathre
+GOOD rather
+
+COMPLETE 1
+CASE 0
+BAD readign
+GOOD reading
+
+COMPLETE 1
+CASE 0
+BAD reallp
+GOOD really
+
+COMPLETE 1
+CASE 0
+BAD realyl
+GOOD really
+
+COMPLETE 1
+CASE 0
+BAD reccomend
+GOOD recommend
+
+COMPLETE 1
+CASE 0
+BAD reccommend
+GOOD recommend
+
+COMPLETE 1
+CASE 0
+BAD receieve
+GOOD receive
+
+COMPLETE 1
+CASE 0
+BAD recieve
+GOOD receive
+
+COMPLETE 1
+CASE 0
+BAD recieved
+GOOD received
+
+COMPLETE 1
+CASE 0
+BAD recieving
+GOOD receiving
+
+COMPLETE 1
+CASE 0
+BAD recomend
+GOOD recommend
+
+COMPLETE 1
+CASE 0
+BAD recomendation
+GOOD recommendation
+
+COMPLETE 1
+CASE 0
+BAD recomendations
+GOOD recommendations
+
+COMPLETE 1
+CASE 0
+BAD recomended
+GOOD recommended
+
+COMPLETE 1
+CASE 0
+BAD reconize
+GOOD recognize
+
+COMPLETE 1
+CASE 0
+BAD recrod
+GOOD record
+
+COMPLETE 1
+CASE 0
+BAD rediculous
+GOOD ridiculous
+
+COMPLETE 1
+CASE 0
+BAD rediculus
+GOOD ridiculous
+
+COMPLETE 1
+CASE 0
+BAD reguard
+GOOD regard
+
+COMPLETE 1
+CASE 0
+BAD religous
+GOOD religious
+
+COMPLETE 1
+CASE 0
+BAD reluctent
+GOOD reluctant
+
+COMPLETE 1
+CASE 0
+BAD remeber
+GOOD remember
+
+COMPLETE 1
+CASE 0
+BAD rememebr
+GOOD remember
+
+COMPLETE 1
+CASE 0
+BAD reommend
+GOOD recommend
+
+COMPLETE 1
+CASE 0
+BAD representativs
+GOOD representatives
+
+COMPLETE 1
+CASE 0
+BAD representives
+GOOD representatives
+
+COMPLETE 1
+CASE 0
+BAD represetned
+GOOD represented
+
+COMPLETE 1
+CASE 0
+BAD represnt
+GOOD represent
+
+COMPLETE 1
+CASE 0
+BAD reserach
+GOOD research
+
+COMPLETE 1
+CASE 0
+BAD resollution
+GOOD resolution
+
+COMPLETE 1
+CASE 0
+BAD resorces
+GOOD resources
+
+COMPLETE 1
+CASE 0
+BAD respomd
+GOOD respond
+
+COMPLETE 1
+CASE 0
+BAD respomse
+GOOD response
+
+COMPLETE 1
+CASE 0
+BAD responce
+GOOD response
+
+COMPLETE 1
+CASE 0
+BAD responsability
+GOOD responsibility
+
+COMPLETE 1
+CASE 0
+BAD responsable
+GOOD responsible
+
+COMPLETE 1
+CASE 0
+BAD responsibile
+GOOD responsible
+
+COMPLETE 1
+CASE 0
+BAD responsiblity
+GOOD responsibility
+
+COMPLETE 1
+CASE 0
+BAD restaraunt
+GOOD restaurant
+
+COMPLETE 1
+CASE 0
+BAD resteraunt
+GOOD restaurant
+
+COMPLETE 1
+CASE 0
+BAD restuarant
+GOOD restaurant
+
+COMPLETE 1
+CASE 0
+BAD reult
+GOOD result
+
+COMPLETE 1
+CASE 0
+BAD reveiw
+GOOD review
+
+COMPLETE 1
+CASE 0
+BAD reveiwing
+GOOD reviewing
+
+COMPLETE 1
+CASE 0
+BAD ridicoulous
+GOOD ridiculous
+
+COMPLETE 1
+CASE 0
+BAD righ
+GOOD right
+
+COMPLETE 1
+CASE 0
+BAD rigt
+GOOD right
+
+COMPLETE 1
+CASE 0
+BAD rigth
+GOOD right
+
+COMPLETE 1
+CASE 0
+BAD rr
+GOOD [Lead]
+
+COMPLETE 1
+CASE 0
+BAD rumers
+GOOD rumors
+
+COMPLETE 1
+CASE 0
+BAD rwite
+GOOD write
+
+COMPLETE 1
+CASE 0
+BAD rythm
+GOOD rhythm
+
+COMPLETE 1
+CASE 0
+BAD saidhe
+GOOD said he
+
+COMPLETE 1
+CASE 0
+BAD saidit
+GOOD said it
+
+COMPLETE 1
+CASE 0
+BAD saidthat
+GOOD said that
+
+COMPLETE 1
+CASE 0
+BAD saidthe
+GOOD said the
+
+COMPLETE 0
+CASE 1
+BAD saidt he 
+GOOD said the 
+
+COMPLETE 1
+CASE 0
+BAD sandwhich
+GOOD sandwich
+
+COMPLETE 1
+CASE 0
+BAD sandwitch
+GOOD sandwich
+
+COMPLETE 1
+CASE 0
+BAD saturday
+GOOD Saturday
+
+COMPLETE 1
+CASE 0
+BAD saty
+GOOD stay
+
+COMPLETE 1
+CASE 0
+BAD saynig
+GOOD saying
+
+COMPLETE 1
+CASE 0
+BAD scedule
+GOOD schedule
+
+COMPLETE 1
+CASE 0
+BAD sceduled
+GOOD scheduled
+
+COMPLETE 1
+CASE 0
+BAD seance
+GOOD séance
+
+COMPLETE 1
+CASE 0
+BAD secratary
+GOOD secretary
+
+COMPLETE 1
+CASE 0
+BAD sectino
+GOOD section
+
+COMPLETE 1
+CASE 0
+BAD seh
+GOOD she
+
+COMPLETE 1
+CASE 0
+BAD seh's
+GOOD she's
+
+COMPLETE 1
+CASE 0
+BAD selectoin
+GOOD selection
+
+COMPLETE 1
+CASE 0
+BAD sence
+GOOD sense
+
+COMPLETE 1
+CASE 0
+BAD sentance
+GOOD sentence
+
+COMPLETE 1
+CASE 0
+BAD separeate
+GOOD separate
+
+COMPLETE 1
+CASE 0
+BAD seperate
+GOOD separate
+
+COMPLETE 1
+CASE 0
+BAD Sephy
+GOOD Sehpi
+
+COMPLETE 1
+CASE 0
+BAD sercumstances
+GOOD circumstances
+
+COMPLETE 1
+CASE 0
+BAD shcool
+GOOD school
+
+COMPLETE 0
+CASE 1
+BAD she;d 
+GOOD she'd 
+
+COMPLETE 0
+CASE 1
+BAD she;ll 
+GOOD she'll 
+
+COMPLETE 1
+CASE 0
+BAD shes
+GOOD she's
+
+COMPLETE 0
+CASE 1
+BAD she;s 
+GOOD she's 
+
+COMPLETE 1
+CASE 0
+BAD shesaid
+GOOD she said
+
+COMPLETE 1
+CASE 0
+BAD shineing
+GOOD shining
+
+COMPLETE 1
+CASE 0
+BAD shiped
+GOOD shipped
+
+COMPLETE 1
+CASE 0
+BAD sholud
+GOOD should
+
+COMPLETE 1
+CASE 0
+BAD shoud
+GOOD should
+
+COMPLETE 1
+CASE 0
+BAD shoudl
+GOOD should
+
+COMPLETE 0
+CASE 1
+BAD shoudln't 
+GOOD shouldn't 
+
+COMPLETE 1
+CASE 0
+BAD shouldent
+GOOD shouldn't
+
+COMPLETE 1
+CASE 0
+BAD shouldnt
+GOOD shouldn't
+
+COMPLETE 1
+CASE 0
+BAD should'nt
+GOOD shouldn't
+
+COMPLETE 0
+CASE 1
+BAD shouldn;t 
+GOOD shouldn't 
+
+COMPLETE 0
+CASE 1
+BAD should of been
+GOOD should have been
+
+COMPLETE 0
+CASE 1
+BAD should of had
+GOOD should have had
+
+COMPLETE 1
+CASE 0
+BAD shouldve
+GOOD should've
+
+COMPLETE 1
+CASE 0
+BAD shoul'dve
+GOOD should've
+
+COMPLETE 1
+CASE 0
+BAD shoulhd
+GOOD should
+
+COMPLETE 1
+CASE 0
+BAD showinf
+GOOD showing
+
+COMPLETE 0
+CASE 1
+BAD shurg
+GOOD shrug
+
+COMPLETE 1
+CASE 0
+BAD si
+GOOD is
+
+COMPLETE 1
+CASE 0
+BAD signifacnt
+GOOD significant
+
+COMPLETE 1
+CASE 0
+BAD SilverWorf
+GOOD SilverWolf
+
+COMPLETE 1
+CASE 0
+BAD simalar
+GOOD similar
+
+COMPLETE 1
+CASE 0
+BAD similiar
+GOOD similar
+
+COMPLETE 1
+CASE 0
+BAD simpyl
+GOOD simply
+
+COMPLETE 1
+CASE 0
+BAD sincerly
+GOOD sincerely
+
+COMPLETE 1
+CASE 0
+BAD sitll
+GOOD still
+
+COMPLETE 1
+CASE 0
+BAD slightyl
+GOOD slightly
+
+COMPLETE 1
+CASE 0
+BAD smae
+GOOD same
+
+COMPLETE 1
+CASE 0
+BAD smoe
+GOOD some
+
+COMPLETE 1
+CASE 0
+BAD soem
+GOOD some
+
+COMPLETE 1
+CASE 0
+BAD sohw
+GOOD show
+
+COMPLETE 1
+CASE 0
+BAD soical
+GOOD social
+
+COMPLETE 1
+CASE 0
+BAD som
+GOOD some
+
+COMPLETE 1
+CASE 0
+BAD some1
+GOOD someone
+
+COMPLETE 1
+CASE 0
+BAD somethign
+GOOD something
+
+COMPLETE 1
+CASE 0
+BAD somethin
+GOOD something
+
+COMPLETE 1
+CASE 0
+BAD someting
+GOOD something
+
+COMPLETE 1
+CASE 0
+BAD somewaht
+GOOD somewhat
+
+COMPLETE 1
+CASE 0
+BAD somewher
+GOOD somewhere
+
+COMPLETE 1
+CASE 0
+BAD somothing
+GOOD something
+
+COMPLETE 1
+CASE 0
+BAD somthing
+GOOD something
+
+COMPLETE 1
+CASE 0
+BAD somtimes
+GOOD sometimes
+
+COMPLETE 1
+CASE 0
+BAD sonuds
+GOOD sounds
+
+COMPLETE 1
+CASE 0
+BAD sorr
+GOOD sorry
+
+COMPLETE 1
+CASE 0
+BAD sorrp
+GOOD sorry
+
+COMPLETE 1
+CASE 0
+BAD soryr
+GOOD sorry
+
+COMPLETE 0
+CASE 1
+BAD sot hat 
+GOOD so that 
+
+COMPLETE 1
+CASE 0
+BAD soudn
+GOOD sound
+
+COMPLETE 1
+CASE 0
+BAD soudns
+GOOD sounds
+
+COMPLETE 1
+CASE 0
+BAD speach
+GOOD speech
+
+COMPLETE 1
+CASE 0
+BAD speakig
+GOOD speaking
+
+COMPLETE 1
+CASE 0
+BAD speaknig
+GOOD speaking
+
+COMPLETE 1
+CASE 0
+BAD specificaly
+GOOD specifically
+
+COMPLETE 1
+CASE 0
+BAD specificalyl
+GOOD specifically
+
+COMPLETE 1
+CASE 0
+BAD spelt
+GOOD spelled
+
+COMPLETE 1
+CASE 0
+BAD sry
+GOOD sorry
+
+COMPLETE 1
+CASE 0
+BAD .ssen
+GOOD .seen
+
+COMPLETE 0
+CASE 1
+BAD state of the ark
+GOOD state of the art
+
+COMPLETE 1
+CASE 0
+BAD statment
+GOOD statement
+
+COMPLETE 1
+CASE 0
+BAD statments
+GOOD statements
+
+COMPLETE 1
+CASE 1
+BAD steve
+GOOD Steve
+
+COMPLETE 1
+CASE 0
+BAD stil
+GOOD still
+
+COMPLETE 1
+CASE 0
+BAD stnad
+GOOD stand
+
+COMPLETE 1
+CASE 0
+BAD stopry
+GOOD story
+
+COMPLETE 1
+CASE 0
+BAD stoyr
+GOOD story
+
+COMPLETE 1
+CASE 0
+BAD stpo
+GOOD stop
+
+COMPLETE 1
+CASE 0
+BAD strentgh
+GOOD strength
+
+COMPLETE 1
+CASE 0
+BAD stroy
+GOOD story
+
+COMPLETE 1
+CASE 0
+BAD struggel
+GOOD struggle
+
+COMPLETE 1
+CASE 0
+BAD strugle
+GOOD struggle
+
+COMPLETE 1
+CASE 0
+BAD studetn
+GOOD student
+
+COMPLETE 1
+CASE 0
+BAD studetns
+GOOD students
+
+COMPLETE 1
+CASE 0
+BAD studets
+GOOD students
+
+COMPLETE 1
+CASE 0
+BAD studnet
+GOOD student
+
+COMPLETE 1
+CASE 0
+BAD studnets
+GOOD students
+
+COMPLETE 1
+CASE 0
+BAD successfull
+GOOD successful
+
+COMPLETE 1
+CASE 0
+BAD successfuly
+GOOD successfully
+
+COMPLETE 1
+CASE 0
+BAD successfulyl
+GOOD successfully
+
+COMPLETE 1
+CASE 0
+BAD sucess
+GOOD success
+
+COMPLETE 1
+CASE 0
+BAD sucessfull
+GOOD successful
+
+COMPLETE 1
+CASE 0
+BAD suer
+GOOD sure
+
+COMPLETE 1
+CASE 0
+BAD sufficiant
+GOOD sufficient
+
+COMPLETE 1
+CASE 0
+BAD sum1
+GOOD someone
+
+COMPLETE 1
+CASE 0
+BAD sunday
+GOOD Sunday
+
+COMPLETE 1
+CASE 0
+BAD suposed
+GOOD supposed
+
+COMPLETE 1
+CASE 0
+BAD supposably
+GOOD supposedly
+
+COMPLETE 1
+CASE 0
+BAD suppossed
+GOOD supposed
+
+COMPLETE 1
+CASE 0
+BAD supressor
+GOOD suppressor
+
+COMPLETE 1
+CASE 0
+BAD suprise
+GOOD surprise
+
+COMPLETE 1
+CASE 0
+BAD suprised
+GOOD surprised
+
+COMPLETE 1
+CASE 0
+BAD surpressor
+GOOD suppressor
+
+COMPLETE 1
+CASE 0
+BAD sux
+GOOD sucks
+
+COMPLETE 1
+CASE 0
+BAD swiming
+GOOD swimming
+
+COMPLETE 1
+CASE 0
+BAD t1t
+GOOD [Latch]
+
+COMPLETE 1
+CASE 0
+BAD tahn
+GOOD than
+
+COMPLETE 1
+CASE 0
+BAD tahnk
+GOOD thank
+
+COMPLETE 1
+CASE 0
+BAD taht
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD taht'
+GOOD that'
+
+COMPLETE 1
+CASE 0
+BAD taht's
+GOOD that's
+
+COMPLETE 1
+CASE 0
+BAD tak
+GOOD take
+
+COMPLETE 0
+CASE 1
+BAD take it for granite
+GOOD take it for granted
+
+COMPLETE 0
+CASE 1
+BAD taken for granite
+GOOD taken for granted
+
+COMPLETE 1
+CASE 0
+BAD talekd
+GOOD talked
+
+COMPLETE 1
+CASE 0
+BAD talkign
+GOOD talking
+
+COMPLETE 1
+CASE 0
+BAD talknig
+GOOD talking
+
+COMPLETE 1
+CASE 0
+BAD tat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD tath
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD te
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tecnical
+GOOD technical
+
+COMPLETE 1
+CASE 0
+BAD teh
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tehir
+GOOD their
+
+COMPLETE 1
+CASE 0
+BAD tehn
+GOOD then
+
+COMPLETE 1
+CASE 0
+BAD tehre
+GOOD there
+
+COMPLETE 1
+CASE 0
+BAD tehre's
+GOOD there's
+
+COMPLETE 1
+CASE 0
+BAD tehse
+GOOD these
+
+COMPLETE 0
+CASE 1
+BAD tehy
+GOOD they
+
+COMPLETE 0
+CASE 1
+BAD Tehy
+GOOD They
+
+COMPLETE 1
+CASE 0
+BAD tel
+GOOD tell
+
+COMPLETE 0
+CASE 1
+BAD tellt he 
+GOOD tell the 
+
+COMPLETE 1
+CASE 0
+BAD termoil
+GOOD turmoil
+
+COMPLETE 1
+CASE 0
+BAD tets
+GOOD test
+
+COMPLETE 1
+CASE 1
+BAD tgga
+GOOD /nick BatSteve-Away
+
+COMPLETE 1
+CASE 1
+BAD tggb
+GOOD /nick BatSteve
+
+COMPLETE 1
+CASE 0
+BAD tghe
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tghis
+GOOD this
+
+COMPLETE 1
+CASE 0
+BAD tha
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thaht
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thakns
+GOOD thanks
+
+COMPLETE 1
+CASE 0
+BAD than's
+GOOD that's
+
+COMPLETE 1
+CASE 0
+BAD thansk
+GOOD thanks
+
+COMPLETE 1
+CASE 0
+BAD tha's
+GOOD that's
+
+COMPLETE 0
+CASE 1
+BAD THat
+GOOD That
+
+COMPLETE 1
+CASE 0
+BAD thats
+GOOD that's
+
+COMPLETE 1
+CASE 0
+BAD thatthe
+GOOD that the
+
+COMPLETE 0
+CASE 1
+BAD thatt he 
+GOOD that the 
+
+COMPLETE 0
+CASE 1
+BAD  th e
+GOOD  the 
+
+COMPLETE 1
+CASE 1
+BAD THe
+GOOD The
+
+COMPLETE 1
+CASE 0
+BAD theat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thecompany
+GOOD the company
+
+COMPLETE 1
+CASE 0
+BAD theer
+GOOD there
+
+COMPLETE 1
+CASE 0
+BAD theey
+GOOD they
+
+COMPLETE 1
+CASE 0
+BAD thefirst
+GOOD the first
+
+COMPLETE 1
+CASE 0
+BAD thegovernment
+GOOD the government
+
+COMPLETE 1
+CASE 0
+BAD theif
+GOOD thief
+
+COMPLETE 0
+CASE 1
+BAD their are 
+GOOD there are 
+
+COMPLETE 0
+CASE 1
+BAD their aren't 
+GOOD there aren't 
+
+COMPLETE 0
+CASE 1
+BAD their is 
+GOOD there is 
+
+COMPLETE 1
+CASE 0
+BAD themself
+GOOD themselves
+
+COMPLETE 1
+CASE 0
+BAD themselfs
+GOOD themselves
+
+COMPLETE 1
+CASE 0
+BAD thenew
+GOOD the new
+
+COMPLETE 1
+CASE 0
+BAD ther
+GOOD there
+
+COMPLETE 0
+CASE 1
+BAD THere
+GOOD There
+
+COMPLETE 1
+CASE 0
+BAD theres
+GOOD there's
+
+COMPLETE 0
+CASE 1
+BAD there's is 
+GOOD theirs is 
+
+COMPLETE 0
+CASE 1
+BAD there's isn't 
+GOOD theirs isn't 
+
+COMPLETE 1
+CASE 0
+BAD theri
+GOOD their
+
+COMPLETE 1
+CASE 0
+BAD thes
+GOOD these
+
+COMPLETE 1
+CASE 0
+BAD thesame
+GOOD the same
+
+COMPLETE 1
+CASE 0
+BAD thetn
+GOOD then
+
+COMPLETE 1
+CASE 0
+BAD thetwo
+GOOD the two
+
+COMPLETE 1
+CASE 1
+BAD THey
+GOOD They
+
+COMPLETE 1
+CASE 0
+BAD theyd
+GOOD they'd
+
+COMPLETE 0
+CASE 1
+BAD they;d 
+GOOD they'd 
+
+COMPLETE 0
+CASE 1
+BAD they;l 
+GOOD they'll 
+
+COMPLETE 1
+CASE 0
+BAD theyll
+GOOD they'll
+
+COMPLETE 0
+CASE 1
+BAD they;ll 
+GOOD they'll 
+
+COMPLETE 0
+CASE 1
+BAD they;r 
+GOOD they're 
+
+COMPLETE 0
+CASE 1
+BAD they;re 
+GOOD they're 
+
+COMPLETE 0
+CASE 1
+BAD theyre 
+GOOD they're 
+
+COMPLETE 0
+CASE 1
+BAD they're are 
+GOOD there are 
+
+COMPLETE 0
+CASE 1
+BAD they're is 
+GOOD there is 
+
+COMPLETE 0
+CASE 1
+BAD they;v 
+GOOD they've 
+
+COMPLETE 1
+CASE 0
+BAD theyve
+GOOD they've
+
+COMPLETE 0
+CASE 1
+BAD they;ve 
+GOOD they've 
+
+COMPLETE 1
+CASE 0
+BAD thgat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thge
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD thhat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thier
+GOOD their 
+
+COMPLETE 1
+CASE 0
+BAD thig
+GOOD thing
+
+COMPLETE 1
+CASE 0
+BAD thigsn
+GOOD things
+
+COMPLETE 1
+CASE 0
+BAD thikn
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD thinik
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD thinkig
+GOOD thinking
+
+COMPLETE 1
+CASE 0
+BAD thinknig
+GOOD thinking
+
+COMPLETE 1
+CASE 0
+BAD thinsg
+GOOD things
+
+COMPLETE 1
+CASE 0
+BAD thinsk
+GOOD thinks
+
+COMPLETE 1
+CASE 0
+BAD thisyear
+GOOD this year
+
+COMPLETE 1
+CASE 0
+BAD thme
+GOOD them
+
+COMPLETE 1
+CASE 0
+BAD thn
+GOOD than
+
+COMPLETE 1
+CASE 0
+BAD thna
+GOOD than
+
+COMPLETE 1
+CASE 0
+BAD thne
+GOOD then
+
+COMPLETE 0
+CASE 1
+BAD thnig
+GOOD thing
+
+COMPLETE 0
+CASE 1
+BAD Thnig
+GOOD Thing
+
+COMPLETE 0
+CASE 1
+BAD thnigs
+GOOD things
+
+COMPLETE 0
+CASE 1
+BAD Thnigs
+GOOD Things
+
+COMPLETE 1
+CASE 0
+BAD thnik
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD tho
+GOOD though
+
+COMPLETE 1
+CASE 0
+BAD thoes
+GOOD those
+
+COMPLETE 1
+CASE 0
+BAD thot
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thoug
+GOOD though
+
+COMPLETE 1
+CASE 0
+BAD thougt
+GOOD thought
+
+COMPLETE 1
+CASE 0
+BAD thougth
+GOOD thought
+
+COMPLETE 1
+CASE 0
+BAD thouh
+GOOD though
+
+COMPLETE 1
+CASE 0
+BAD thre
+GOOD there
+
+COMPLETE 1
+CASE 0
+BAD threatend
+GOOD threatened
+
+COMPLETE 1
+CASE 0
+BAD thrid
+GOOD third
+
+COMPLETE 1
+CASE 0
+BAD throuh
+GOOD through
+
+COMPLETE 1
+CASE 0
+BAD thsi
+GOOD this
+
+COMPLETE 1
+CASE 0
+BAD thsoe
+GOOD those
+
+COMPLETE 1
+CASE 0
+BAD tht
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thta
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thta's
+GOOD that's
+
+COMPLETE 1
+CASE 0
+BAD thtat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD thursday
+GOOD Thursday
+
+COMPLETE 1
+CASE 0
+BAD thx
+GOOD thanks
+
+COMPLETE 1
+CASE 0
+BAD thye
+GOOD they
+
+COMPLETE 1
+CASE 0
+BAD ti
+GOOD it
+
+COMPLETE 1
+CASE 0
+BAD tiem
+GOOD time
+
+COMPLETE 0
+CASE 1
+BAD tihng
+GOOD thing
+
+COMPLETE 1
+CASE 0
+BAD tihnk
+GOOD think
+
+COMPLETE 1
+CASE 0
+BAD tihnking
+GOOD thinking
+
+COMPLETE 1
+CASE 0
+BAD tihs
+GOOD this
+
+COMPLETE 1
+CASE 0
+BAD timne
+GOOD time
+
+COMPLETE 1
+CASE 0
+BAD tiogether
+GOOD together
+
+COMPLETE 1
+CASE 0
+BAD tje
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tjhe
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tkae
+GOOD take
+
+COMPLETE 1
+CASE 0
+BAD tkaes
+GOOD takes
+
+COMPLETE 1
+CASE 0
+BAD tkaing
+GOOD taking
+
+COMPLETE 1
+CASE 0
+BAD tlaking
+GOOD talking
+
+COMPLETE 1
+CASE 0
+BAD tnx
+GOOD thanks
+
+COMPLETE 0
+CASE 1
+BAD  t o
+GOOD  to
+
+COMPLETE 1
+CASE 0
+BAD todya
+GOOD today
+
+COMPLETE 1
+CASE 0
+BAD togehter
+GOOD together
+
+COMPLETE 1
+CASE 0
+BAD togethre
+GOOD together
+
+COMPLETE 1
+CASE 0
+BAD tohse
+GOOD those
+
+COMPLETE 0
+CASE 1
+BAD toldt he 
+GOOD told the 
+
+COMPLETE 1
+CASE 0
+BAD tome
+GOOD to me
+
+COMPLETE 1
+CASE 0
+BAD tomorow
+GOOD tomorrow
+
+COMPLETE 1
+CASE 0
+BAD tongiht
+GOOD tonight
+
+COMPLETE 1
+CASE 0
+BAD tonihgt
+GOOD tonight
+
+COMPLETE 1
+CASE 0
+BAD tonite
+GOOD tonight
+
+COMPLETE 1
+CASE 0
+BAD totaly
+GOOD totally
+
+COMPLETE 1
+CASE 0
+BAD totalyl
+GOOD totally
+
+COMPLETE 1
+CASE 0
+BAD tothe
+GOOD to the
+
+COMPLETE 0
+CASE 1
+BAD tot he 
+GOOD to the 
+
+COMPLETE 1
+CASE 0
+BAD touche
+GOOD touché
+
+COMPLETE 1
+CASE 0
+BAD towrad
+GOOD toward
+
+COMPLETE 1
+CASE 0
+BAD traditionalyl
+GOOD traditionally
+
+COMPLETE 1
+CASE 0
+BAD transfered
+GOOD transferred
+
+COMPLETE 1
+CASE 0
+BAD trhee
+GOOD three
+
+COMPLETE 1
+CASE 0
+BAD truely
+GOOD truly
+
+COMPLETE 1
+CASE 0
+BAD truley
+GOOD truly
+
+COMPLETE 1
+CASE 0
+BAD tryed
+GOOD tried
+
+COMPLETE 1
+CASE 0
+BAD tryig
+GOOD trying
+
+COMPLETE 1
+CASE 0
+BAD tryign
+GOOD trying
+
+COMPLETE 1
+CASE 0
+BAD trynig
+GOOD trying
+
+COMPLETE 1
+CASE 0
+BAD tthe
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD tuesday
+GOOD Tuesday
+
+COMPLETE 1
+CASE 0
+BAD ture
+GOOD true
+
+COMPLETE 1
+CASE 0
+BAD tyhat
+GOOD that
+
+COMPLETE 1
+CASE 0
+BAD tyhe
+GOOD the
+
+COMPLETE 1
+CASE 0
+BAD udnerstand
+GOOD understand
+
+COMPLETE 1
+CASE 0
+BAD understnad
+GOOD understand
+
+COMPLETE 0
+CASE 1
+BAD undert he 
+GOOD under the 
+
+COMPLETE 1
+CASE 0
+BAD unforseen
+GOOD unforeseen
+
+COMPLETE 1
+CASE 0
+BAD UnitedStates
+GOOD United States
+
+COMPLETE 1
+CASE 0
+BAD unliek
+GOOD unlike
+
+COMPLETE 1
+CASE 0
+BAD unpleasently
+GOOD unpleasantly
+
+COMPLETE 1
+CASE 0
+BAD untill
+GOOD until
+
+COMPLETE 1
+CASE 0
+BAD untilll
+GOOD until
+
+COMPLETE 1
+CASE 0
+BAD useing
+GOOD using
+
+COMPLETE 1
+CASE 0
+BAD usualyl
+GOOD usually
+
+COMPLETE 1
+CASE 0
+BAD verry
+GOOD very
+
+COMPLETE 1
+CASE 0
+BAD veyr
+GOOD very
+
+COMPLETE 1
+CASE 0
+BAD virtualyl
+GOOD virtually
+
+COMPLETE 1
+CASE 0
+BAD visavis
+GOOD vis-a-vis
+
+COMPLETE 0
+CASE 1
+BAD vis-a-vis
+GOOD vis-à-vis
+
+COMPLETE 1
+CASE 0
+BAD vrey
+GOOD very
+
+COMPLETE 1
+CASE 0
+BAD vulnerible
+GOOD vulnerable
+
+COMPLETE 1
+CASE 0
+BAD waht
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD wark
+GOOD walk
+
+COMPLETE 1
+CASE 0
+BAD warrent
+GOOD warrant
+
+COMPLETE 0
+CASE 1
+BAD wa snot 
+GOOD was not 
+
+COMPLETE 1
+CASE 0
+BAD was'nt
+GOOD wasn't
+
+COMPLETE 0
+CASE 1
+BAD wasn;t 
+GOOD wasn't 
+
+COMPLETE 0
+CASE 1
+BAD wasnt 
+GOOD wasn't 
+
+COMPLETE 1
+CASE 0
+BAD wasnt'
+GOOD wasn't
+
+COMPLETE 1
+CASE 0
+BAD wat
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD wath
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD watn
+GOOD want
+
+COMPLETE 0
+CASE 1
+BAD we;d 
+GOOD we'd 
+
+COMPLETE 1
+CASE 0
+BAD wednesday
+GOOD Wednesday
+
+COMPLETE 1
+CASE 0
+BAD weer
+GOOD were
+
+COMPLETE 1
+CASE 0
+BAD wehn
+GOOD when
+
+COMPLETE 1
+CASE 0
+BAD wel
+GOOD well
+
+COMPLETE 0
+CASE 1
+BAD we'l 
+GOOD we'll 
+
+COMPLETE 0
+CASE 1
+BAD we;ll 
+GOOD we'll 
+
+COMPLETE 0
+CASE 1
+BAD we;re 
+GOOD we're 
+
+COMPLETE 1
+CASE 0
+BAD werent
+GOOD weren't
+
+COMPLETE 1
+CASE 0
+BAD were'nt
+GOOD weren't
+
+COMPLETE 0
+CASE 1
+BAD weren;t 
+GOOD weren't 
+
+COMPLETE 0
+CASE 1
+BAD wern't 
+GOOD weren't 
+
+COMPLETE 1
+CASE 0
+BAD werre
+GOOD were
+
+COMPLETE 1
+CASE 0
+BAD weve
+GOOD we've
+
+COMPLETE 0
+CASE 1
+BAD we;ve 
+GOOD we've 
+
+COMPLETE 0
+CASE 1
+BAD WHat
+GOOD What
+
+COMPLETE 1
+CASE 0
+BAD whats
+GOOD what's
+
+COMPLETE 0
+CASE 1
+BAD what;s 
+GOOD what's 
+
+COMPLETE 1
+CASE 0
+BAD whcih
+GOOD which
+
+COMPLETE 1
+CASE 0
+BAD wheer
+GOOD where
+
+COMPLETE 1
+CASE 0
+BAD wheer's
+GOOD where's
+
+COMPLETE 0
+CASE 1
+BAD WHen
+GOOD When
+
+COMPLETE 0
+CASE 1
+BAD whent he 
+GOOD when the 
+
+COMPLETE 1
+CASE 0
+BAD wher
+GOOD where
+
+COMPLETE 1
+CASE 1
+BAD WHere
+GOOD Where
+
+COMPLETE 1
+CASE 0
+BAD wheres
+GOOD where's
+
+COMPLETE 0
+CASE 1
+BAD where;s 
+GOOD where's 
+
+COMPLETE 1
+CASE 0
+BAD wherre
+GOOD where
+
+COMPLETE 1
+CASE 0
+BAD whic
+GOOD which
+
+COMPLETE 1
+CASE 1
+BAD WHich
+GOOD Which
+
+COMPLETE 0
+CASE 1
+BAD whicht he 
+GOOD which the 
+
+COMPLETE 1
+CASE 0
+BAD whihc
+GOOD which
+
+COMPLETE 1
+CASE 0
+BAD whil
+GOOD while
+
+COMPLETE 1
+CASE 0
+BAD whoel
+GOOD whole
+
+COMPLETE 1
+CASE 0
+BAD wholl
+GOOD who'll
+
+COMPLETE 1
+CASE 0
+BAD whos
+GOOD who's
+
+COMPLETE 0
+CASE 1
+BAD who;s 
+GOOD who's 
+
+COMPLETE 1
+CASE 0
+BAD whove
+GOOD who've
+
+COMPLETE 0
+CASE 1
+BAD who;ve 
+GOOD who've 
+
+COMPLETE 1
+CASE 0
+BAD wht
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD whta
+GOOD what
+
+COMPLETE 1
+CASE 1
+BAD WHy
+GOOD Why
+
+COMPLETE 1
+CASE 0
+BAD whys
+GOOD why's
+
+COMPLETE 1
+CASE 0
+BAD wich
+GOOD which
+
+COMPLETE 1
+CASE 0
+BAD wief
+GOOD wife
+
+COMPLETE 1
+CASE 0
+BAD wierd
+GOOD weird
+
+COMPLETE 1
+CASE 0
+BAD wih
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD wihch
+GOOD which
+
+COMPLETE 1
+CASE 0
+BAD wiht
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD willbe
+GOOD will be
+
+COMPLETE 0
+CASE 1
+BAD will of been
+GOOD will have been
+
+COMPLETE 0
+CASE 1
+BAD will of had
+GOOD will have had
+
+COMPLETE 1
+CASE 0
+BAD windoes
+GOOD windows
+
+COMPLETE 1
+CASE 0
+BAD wit
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD witha
+GOOD with a
+
+COMPLETE 1
+CASE 0
+BAD withdrawl
+GOOD withdrawal
+
+COMPLETE 1
+CASE 0
+BAD withe
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD witht he
+GOOD with the
+
+COMPLETE 0
+CASE 1
+BAD withthe 
+GOOD with the 
+
+COMPLETE 1
+CASE 0
+BAD wiull
+GOOD will
+
+COMPLETE 1
+CASE 0
+BAD wnat
+GOOD want
+
+COMPLETE 1
+CASE 0
+BAD wnated
+GOOD wanted
+
+COMPLETE 1
+CASE 0
+BAD wnats
+GOOD wants
+
+COMPLETE 1
+CASE 0
+BAD woh
+GOOD who
+
+COMPLETE 1
+CASE 0
+BAD wohle
+GOOD whole
+
+COMPLETE 1
+CASE 0
+BAD wokr
+GOOD work
+
+COMPLETE 1
+CASE 0
+BAD wont
+GOOD won't
+
+COMPLETE 0
+CASE 1
+BAD wo'nt 
+GOOD won't 
+
+COMPLETE 0
+CASE 1
+BAD won;t 
+GOOD won't 
+
+COMPLETE 1
+CASE 0
+BAD worknig
+GOOD working
+
+COMPLETE 1
+CASE 0
+BAD woryr
+GOOD worry
+
+COMPLETE 1
+CASE 0
+BAD woudl
+GOOD would
+
+COMPLETE 0
+CASE 1
+BAD woudln't 
+GOOD wouldn't 
+
+COMPLETE 1
+CASE 0
+BAD wouldbe
+GOOD would be
+
+COMPLETE 1
+CASE 0
+BAD wouldnt
+GOOD wouldn't
+
+COMPLETE 1
+CASE 0
+BAD would'nt
+GOOD wouldn't
+
+COMPLETE 0
+CASE 1
+BAD wouldn;t 
+GOOD wouldn't 
+
+COMPLETE 0
+CASE 1
+BAD would of been
+GOOD would have been
+
+COMPLETE 0
+CASE 1
+BAD would of had
+GOOD would have had
+
+COMPLETE 1
+CASE 0
+BAD wouldve
+GOOD would've
+
+COMPLETE 1
+CASE 0
+BAD wriet
+GOOD write
+
+COMPLETE 1
+CASE 0
+BAD writting
+GOOD writing
+
+COMPLETE 1
+CASE 0
+BAD wrod
+GOOD word
+
+COMPLETE 1
+CASE 0
+BAD wroet
+GOOD wrote
+
+COMPLETE 1
+CASE 0
+BAD wroking
+GOOD working
+
+COMPLETE 1
+CASE 0
+BAD wsa
+GOOD was
+
+COMPLETE 1
+CASE 0
+BAD wtah
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD wtha
+GOOD what
+
+COMPLETE 1
+CASE 0
+BAD wtih
+GOOD with
+
+COMPLETE 1
+CASE 0
+BAD wuould
+GOOD would
+
+COMPLETE 1
+CASE 0
+BAD ww
+GOOD wuv
+
+COMPLETE 1
+CASE 0
+BAD wwo
+GOOD wow
+
+COMPLETE 1
+CASE 0
+BAD wya
+GOOD way
+
+COMPLETE 1
+CASE 0
+BAD wyh
+GOOD why
+
+COMPLETE 1
+CASE 0
+BAD yaeh
+GOOD yeah
+
+COMPLETE 1
+CASE 0
+BAD yead
+GOOD yeah
+
+COMPLETE 1
+CASE 0
+BAD yeh
+GOOD yeah
+
+COMPLETE 1
+CASE 0
+BAD yeha
+GOOD yeah
+
+COMPLETE 1
+CASE 0
+BAD yera
+GOOD year
+
+COMPLETE 1
+CASE 0
+BAD yeras
+GOOD years
+
+COMPLETE 1
+CASE 0
+BAD yersa
+GOOD years
+
+COMPLETE 1
+CASE 0
+BAD ym
+GOOD my
+
+COMPLETE 1
+CASE 0
+BAD yoiu
+GOOD you
+
+COMPLETE 1
+CASE 0
+BAD yoru
+GOOD your
+
+COMPLETE 1
+CASE 0
+BAD youare
+GOOD you are
+
+COMPLETE 1
+CASE 0
+BAD youd
+GOOD you'd
+
+COMPLETE 0
+CASE 1
+BAD you;d 
+GOOD you'd 
+
+COMPLETE 1
+CASE 0
+BAD youll
+GOOD you'll
+
+COMPLETE 1
+CASE 0
+BAD youo
+GOOD you
+
+COMPLETE 0
+CASE 1
+BAD your a 
+GOOD you're a 
+
+COMPLETE 0
+CASE 1
+BAD your an 
+GOOD you're an 
+
+COMPLETE 1
+CASE 0
+BAD youre
+GOOD you're
+
+COMPLETE 0
+CASE 1
+BAD you;re 
+GOOD you're 
+
+COMPLETE 0
+CASE 1
+BAD you're own 
+GOOD your own 
+
+COMPLETE 0
+CASE 1
+BAD your her 
+GOOD you're her 
+
+COMPLETE 0
+CASE 1
+BAD your here 
+GOOD you're here 
+
+COMPLETE 0
+CASE 1
+BAD your his 
+GOOD you're his 
+
+COMPLETE 0
+CASE 1
+BAD your my 
+GOOD you're my 
+
+COMPLETE 0
+CASE 1
+BAD your the 
+GOOD you're the 
+
+COMPLETE 0
+CASE 1
+BAD your their 
+GOOD you're their 
+
+COMPLETE 0
+CASE 1
+BAD your your 
+GOOD you're your 
+
+COMPLETE 1
+CASE 0
+BAD youve
+GOOD you've
+
+COMPLETE 0
+CASE 1
+BAD you;ve 
+GOOD you've 
+
+COMPLETE 1
+CASE 0
+BAD yse
+GOOD yes
+
+COMPLETE 1
+CASE 0
+BAD ytou
+GOOD you
+
+COMPLETE 1
+CASE 0
+BAD yu
+GOOD you
+
+COMPLETE 1
+CASE 0
+BAD yuo
+GOOD you
+
+COMPLETE 1
+CASE 0
+BAD yuor
+GOOD your
+
+COMPLETE 1
+CASE 0
+BAD yy
+GOOD ORACLE
+
+COMPLETE 1
+CASE 1
+BAD zari
+GOOD Zari
+
