@@ -24,7 +24,7 @@ def main():
     resultlist = []
 
     # opene file, read in lines
-    with open("/home/steve/src/hg/sdv/vim-autocorrect/pidgin","r") as infile:
+    with open("./pidgin","r") as infile:
         #group lines separated by blanks
         for key,group in itertools.groupby(infile,sep):
             #print(key,list(group))
@@ -35,6 +35,9 @@ def main():
 
     resultTuples = [tuple(eachitem) for eachitem in resultlist]
 
+    output = []
+    junk = []
+
     for (bad,good) in resultTuples:
         bad = bad.rstrip()
         bad = bad[4:]
@@ -42,10 +45,14 @@ def main():
         good = good[5:]
 
         if isClean(bad + good):
-            output = ''.join( (bad,'->',good) )
+            output.append( ''.join( (bad,'->',good) ) )
+        else:
+            junk.append( ''.join( (bad,'->',good) ) )
 
     for eachitem in output:
         print(eachitem)
+    #for eachitem in junk:
+    #    print(eachitem)
 
 
 
